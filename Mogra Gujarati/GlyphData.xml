@@ -758,4 +758,14 @@
   <glyph name="gjAvagraha" category="Letter" unicode="0ABD" description="GUJARATI SIGN AVAGRAHA" script="gujarati"/>
   <glyph name="gjVirama" category="Letter" unicode="0ACD" description="GUJARATI SIGN VIRAMA" script="gujarati"/>
   <glyph name="gjNukta" category="Letter" unicode="0ABC" description="GUJARATI SIGN NUKTA" script="gujarati"/>
+  <glyph name="gjZero" category="Number" subCategory="Decimal Digit" unicode="0AE6" description="GUJARATI DIGIT ZERO" script="gujarati"/>
+  <glyph name="gjOne" category="Number" subCategory="Decimal Digit" unicode="0AE7" description="GUJARATI DIGIT ONE" script="gujarati"/>
+  <glyph name="gjTwo" category="Number" subCategory="Decimal Digit" unicode="0AE8" description="GUJARATI DIGIT TWO" script="gujarati"/>
+  <glyph name="gjThree" category="Number" subCategory="Decimal Digit" unicode="0AE9" description="GUJARATI DIGIT THREE" script="gujarati"/>
+  <glyph name="gjFour" category="Number" subCategory="Decimal Digit" unicode="0AEA" description="GUJARATI DIGIT FOUR" script="gujarati"/>
+  <glyph name="gjFive" category="Number" subCategory="Decimal Digit" unicode="0AEB" description="GUJARATI DIGIT FIVE" script="gujarati"/>
+  <glyph name="gjSix" category="Number" subCategory="Decimal Digit" unicode="0AEC" description="GUJARATI DIGIT SIX" script="gujarati"/>
+  <glyph name="gjSeven" category="Number" subCategory="Decimal Digit" unicode="0AED" description="GUJARATI DIGIT SEVEN" script="gujarati"/>
+  <glyph name="gjEight" category="Number" subCategory="Decimal Digit" unicode="0AEE" description="GUJARATI DIGIT EIGHT" script="gujarati"/>
+  <glyph name="gjNine" category="Number" subCategory="Decimal Digit" unicode="0AEF" description="GUJARATI DIGIT NINE" script="gujarati"/>
 </glyphData>
