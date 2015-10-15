@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"NOTE: /gjJA_mAA/gjAnusvara  /gjJA_mII/gjAnusvara  /gjDD_R  /gjK_SS_YA  /gjK_SS_RA  \012/f_f ,/fi ,/fl ,/f_f_i ,/f_f_l  \012TO DO: /gjvR , prepare a test document, post on group thread\012\012"
+"NOTE: /gjJA_mAA/gjAnusvara  /gjJA_mII/gjAnusvara  /gjDD_R  /gjK_SS_YA  /gjK_SS_RA  \012/f_f ,/fi ,/fl ,/f_f_i ,/f_f_l  \012TO DO: /gjvR , prepare a test document, post on group thread\012What about /gjP_RA/gjmU , /gjV_RA/gjmU , /gjKHA/gjmU ,/gjKH_RA/gjmU ???? URGH.\012FIX gjG conjuncts!!! /gjG/gjVA  /gjG/gjPA  /gjG/gjKHA ?!?!!? /gjJA_mII/gjVA  /gjJHA/gjBA  /gjI/gjNA/gjI/gjN_DDA  "
 );
 copyright = "Copyright \U00A9 2015 by Lipi Raval.";
 customParameters = (
@@ -16562,7 +16562,7 @@ unicode = 0AA7;
 },
 {
 glyphname = gjNA;
-lastChange = "2015-08-20 18:12:10 +0000";
+lastChange = "2015-10-15 16:06:16 +0000";
 layers = (
 {
 background = {
@@ -22315,7 +22315,7 @@ unicode = 0AB2;
 },
 {
 glyphname = gjVA;
-lastChange = "2015-10-03 10:07:10 +0000";
+lastChange = "2015-10-15 15:30:39 +0000";
 layers = (
 {
 associatedMasterId = "AF1B7CCB-9C31-456C-8386-1D362D80AEF6";
@@ -78036,7 +78036,7 @@ rightMetricsKey = gjTTA;
 {
 color = 1;
 glyphname = gjN_DDA;
-lastChange = "2015-10-04 14:27:27 +0000";
+lastChange = "2015-10-15 16:06:34 +0000";
 layers = (
 {
 anchors = (
@@ -163698,6 +163698,8 @@ x = -30;
 "@MMK_R_gjJHA" = 40;
 "@MMK_R_gjPA" = 40;
 "@MMK_R_gjVA" = 60;
+gjNA = 0;
+gjN_DDA = 40;
 };
 "@MMK_L_gjJA" = {
 "@MMK_R_gjDA" = -30;
@@ -163735,6 +163737,7 @@ gjSA = 50;
 "@MMK_L_gjTTHA" = {
 "@MMK_R_gjA" = 25;
 "@MMK_R_gjJHA" = 30;
+"@MMK_R_gjVA" = 40;
 };
 "@MMK_L_gjvR" = {
 "@MMK_R_gjPA" = -40;
@@ -164676,6 +164679,9 @@ nine = 20;
 one = 10;
 six = 10;
 zero = 20;
+};
+gjJA_mII = {
+"@MMK_R_gjVA" = 30;
 };
 };
 };
