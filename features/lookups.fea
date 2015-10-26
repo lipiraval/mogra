@@ -28,17 +28,17 @@ lookup rkrf_new {
   sub gjKHA  gjVirama gjRA by  gjKH_RA;
   sub gjGA   gjVirama gjRA by   gjG_RA;
   sub gjGHA  gjVirama gjRA by  gjGH_RA;
-  # sub gjNGA  gjVirama gjRA by  gjNG_RA;
+  sub gjNGA  gjVirama gjRA by  gjNG_RA;
   sub gjCA   gjVirama gjRA by   gjC_RA;
   sub gjCHA  gjVirama gjRA by  gjCH_RA;
   sub gjJA   gjVirama gjRA by   gjJ_RA;
   sub gjJHA  gjVirama gjRA by  gjJH_RA;
-  # sub gjNYA  gjVirama gjRA by  gjNY_RA;
+  sub gjNYA  gjVirama gjRA by  gjNY_RA;
   sub gjTTA  gjVirama gjRA by  gjTT_RA;
   sub gjTTHA gjVirama gjRA by gjTTH_RA;
   sub gjDDA  gjVirama gjRA by  gjDD_RA;
   sub gjDDHA gjVirama gjRA by gjDDH_RA;
-  # sub gjNNA  gjVirama gjRA by  gjNN_RA;
+  sub gjNNA  gjVirama gjRA by  gjNN_RA;
   sub gjTA   gjVirama gjRA by   gjT_RA;
   sub gjTHA  gjVirama gjRA by  gjTH_RA;
   sub gjDA   gjVirama gjRA by   gjD_RA;
@@ -51,15 +51,15 @@ lookup rkrf_new {
   sub gjMA   gjVirama gjRA by   gjM_RA;
   sub gjYA   gjVirama gjRA by   gjY_RA;
   # Reph
-  # sub gjLA   gjVirama gjRA by   gjL_RA;
+  sub gjLA   gjVirama gjRA by   gjL_RA;
   sub gjVA   gjVirama gjRA by   gjV_RA;
   sub gjSHA  gjVirama gjRA by  gjSH_RA;
-  # sub gjSSA  gjVirama gjRA by  gjSS_RA;
+  sub gjSSA  gjVirama gjRA by  gjSS_RA;
   sub gjSA   gjVirama gjRA by   gjS_RA;
   sub gjHA   gjVirama gjRA by   gjH_RA;
-  # sub gjLLA  gjVirama gjRA by  gjLL_RA;
+  sub gjLLA  gjVirama gjRA by  gjLL_RA;
 
-  # sub gjK_SSA gjVirama gjRA by gjK_SS_RA;
+  sub gjK_SSA gjVirama gjRA by gjK_SS_RA;
   # sub gjJ_NYA gjVirama gjRA by gjJ_NY_RA;
 
 } rkrf_new;
@@ -86,20 +86,20 @@ lookup half {
   sub gjKHA  gjVirama by gjKH;
   sub gjGA   gjVirama by gjG;
   sub gjGHA  gjVirama by gjGH;
-  # sub gjNGA  gjVirama by gjNG;
+  sub gjNGA  gjVirama by gjNG;
   sub gjCA   gjVirama by gjC;
-  # sub gjCHA  gjVirama by gjCH;
+  sub gjCHA  gjVirama by gjCH;
   sub gjJA   gjVirama by gjJ;
   sub gjJHA  gjVirama by gjJH;
   sub gjNYA  gjVirama by gjNY;
-  # sub gjTTA  gjVirama by gjTT;
-  # sub gjTTHA gjVirama by gjTTH;
-  # sub gjDDA  gjVirama by gjDD;
-  # sub gjDDHA gjVirama by gjDDH;
+  sub gjTTA  gjVirama by gjTT;
+  sub gjTTHA gjVirama by gjTTH;
+  sub gjDDA  gjVirama by gjDD;
+  sub gjDDHA gjVirama by gjDDH;
   sub gjNNA  gjVirama by gjNN;
   sub gjTA   gjVirama by gjT;
   sub gjTHA  gjVirama by gjTH;
-  # sub gjDA   gjVirama by gjD;
+  sub gjDA   gjVirama by gjD;
   sub gjDHA  gjVirama by gjDH;
   sub gjNA   gjVirama by gjN;
   sub gjPA   gjVirama by gjP;
@@ -108,13 +108,13 @@ lookup half {
   sub gjBHA  gjVirama by gjBH;
   sub gjMA   gjVirama by gjM;
   sub gjYA   gjVirama by gjY;
-  sub gjRA   gjVirama by gjR; #! Must present to prevent Core Text's bug of wrong matra i reordering in <P_R, YA, mI>.
+  sub gjRA   gjVirama by gjR;
   sub gjLA   gjVirama by gjL;
   sub gjVA   gjVirama by gjV;
   sub gjSHA  gjVirama by gjSH;
   sub gjSSA  gjVirama by gjSS;
   sub gjSA   gjVirama by gjS;
-  # sub gjHA   gjVirama by gjH;
+  sub gjHA   gjVirama by gjH;
   sub gjLLA  gjVirama by gjLL;
 
   sub gjK_SSA gjVirama by gjK_SS;
@@ -130,18 +130,18 @@ lookup half_new {
   sub  gjGH_RA gjVirama by  gjGH_R;
   # sub  gjNG_RA gjVirama by  gjNG_R;
   sub   gjC_RA gjVirama by   gjC_R;
-  # sub  gjCH_RA gjVirama by  gjCH_R;
+  sub  gjCH_RA gjVirama by  gjCH_R;
   sub   gjJ_RA gjVirama by   gjJ_R;
   sub  gjJH_RA gjVirama by  gjJH_R;
-  # sub  gjNY_RA gjVirama by  gjNY_R;
-  # sub  gjTT_RA gjVirama by  gjTT_R;
-  # sub gjTTH_RA gjVirama by gjTTH_R;
-  # sub  gjDD_RA gjVirama by  gjDD_R;
-  # sub gjDDH_RA gjVirama by gjDDH_R;
-  # sub  gjNN_RA gjVirama by  gjNN_R;
+  sub  gjNY_RA gjVirama by  gjNY_R;
+  sub  gjTT_RA gjVirama by  gjTT_R;
+  sub gjTTH_RA gjVirama by gjTTH_R;
+  sub  gjDD_RA gjVirama by  gjDD_R;
+  sub gjDDH_RA gjVirama by gjDDH_R;
+  sub  gjNN_RA gjVirama by  gjNN_R;
   sub   gjT_RA gjVirama by   gjT_R;
   sub  gjTH_RA gjVirama by  gjTH_R;
-  # sub   gjD_RA gjVirama by   gjD_R;
+  sub   gjD_RA gjVirama by   gjD_R;
   sub  gjDH_RA gjVirama by  gjDH_R;
   sub   gjN_RA gjVirama by   gjN_R;
   sub   gjP_RA gjVirama by   gjP_R;
@@ -151,29 +151,18 @@ lookup half_new {
   sub   gjM_RA gjVirama by   gjM_R;
   sub   gjY_RA gjVirama by   gjY_R;
   # sub gjR_RA gjVirama by gjR_R; # Reph
-  # sub   gjL_RA gjVirama by   gjL_R;
+  sub   gjL_RA gjVirama by   gjL_R;
   sub   gjV_RA gjVirama by   gjV_R;
-  # sub  gjSH_RA gjVirama by  gjSH_R;
-  # sub  gjSS_RA gjVirama by  gjSS_R;
+  sub  gjSH_RA gjVirama by  gjSH_R;
+  sub  gjSS_RA gjVirama by  gjSS_R;
   sub   gjS_RA gjVirama by   gjS_R;
   # sub   gjH_RA gjVirama by   gjH_R;
-  # sub  gjLL_RA gjVirama by  gjLL_R;
+  sub  gjLL_RA gjVirama by  gjLL_R;
 
-  # sub gjK_SS_RA gjVirama by gjK_SS_R;
+  sub gjK_SS_RA gjVirama by gjK_SS_R;
   # sub gjJ_NY_RA gjVirama by gjJ_NY_R;
 
 } half_new;
-
-lookup half_old {
-  sub gjNGA  gjVirama by gjNG;
-  sub gjCHA  gjVirama by gjCH;
-  sub gjTTA  gjVirama by gjTT;
-  sub gjTTHA gjVirama by gjTTH;
-  sub gjDDA  gjVirama by gjDD;
-  sub gjDDHA gjVirama by gjDDH;
-  sub gjDA   gjVirama by gjD;
-  sub gjHA   gjVirama by gjH;
-} half_old;
 
 
 # Vattu Variants
@@ -185,17 +174,17 @@ lookup vatu_old {
   sub gjKHA  gjRAc2 by  gjKH_RA;
   sub gjGA   gjRAc2 by   gjG_RA;
   sub gjGHA  gjRAc2 by  gjGH_RA;
-  # sub gjNGA  gjRAc2 by  gjNG_RA;
+  sub gjNGA  gjRAc2 by  gjNG_RA;
   sub gjCA   gjRAc2 by   gjC_RA;
   sub gjCHA  gjRAc2 by  gjCH_RA;
   sub gjJA   gjRAc2 by   gjJ_RA;
   sub gjJHA  gjRAc2 by  gjJH_RA;
-  # sub gjNYA  gjRAc2 by  gjNY_RA;
+  sub gjNYA  gjRAc2 by  gjNY_RA;
   sub gjTTA  gjRAc2 by  gjTT_RA;
   sub gjTTHA gjRAc2 by gjTTH_RA;
   sub gjDDA  gjRAc2 by  gjDD_RA;
   sub gjDDHA gjRAc2 by gjDDH_RA;
-  # sub gjNNA  gjRAc2 by  gjNN_RA;
+  sub gjNNA  gjRAc2 by  gjNN_RA;
   sub gjTA   gjRAc2 by   gjT_RA;
   sub gjTHA  gjRAc2 by  gjTH_RA;
   sub gjDA   gjRAc2 by   gjD_RA;
@@ -208,15 +197,15 @@ lookup vatu_old {
   sub gjMA   gjRAc2 by   gjM_RA;
   sub gjYA   gjRAc2 by   gjY_RA;
   # Reph
-  # sub gjLA   gjRAc2 by   gjL_RA;
+  sub gjLA   gjRAc2 by   gjL_RA;
   sub gjVA   gjRAc2 by   gjV_RA;
   sub gjSHA  gjRAc2 by  gjSH_RA;
-  # sub gjSSA  gjRAc2 by  gjSS_RA;
+  sub gjSSA  gjRAc2 by  gjSS_RA;
   sub gjSA   gjRAc2 by   gjS_RA;
   sub gjHA   gjRAc2 by   gjH_RA;
-  # sub gjLLA  gjRAc2 by  gjLL_RA;
+  sub gjLLA  gjRAc2 by  gjLL_RA;
 
-  # sub gjK_SSA gjRAc2 by gjK_SS_RA;
+  sub gjK_SSA gjRAc2 by gjK_SS_RA;
   # sub gjJ_NYA gjRAc2 by gjJ_NY_RA;
 
   sub gjK   gjRAc2 by   gjK_R;
@@ -225,15 +214,15 @@ lookup vatu_old {
   sub gjGH  gjRAc2 by  gjGH_R;
   # sub gjNG  gjRAc2 by  gjNG_R;
   sub gjC   gjRAc2 by   gjC_R;
-  # sub gjCH  gjRAc2 by  gjCH_R;
+  sub gjCH  gjRAc2 by  gjCH_R;
   sub gjJ   gjRAc2 by   gjJ_R;
   sub gjJH  gjRAc2 by  gjJH_R;
-  # sub gjNY  gjRAc2 by  gjNY_R;
+  sub gjNY  gjRAc2 by  gjNY_R;
   sub gjTT  gjRAc2 by  gjTT_R;
   sub gjTTH gjRAc2 by gjTTH_R;
   sub gjDD  gjRAc2 by  gjDD_R;
   sub gjDDH gjRAc2 by gjDDH_R;
-  # sub gjNN  gjRAc2 by  gjNN_R;
+  sub gjNN  gjRAc2 by  gjNN_R;
   sub gjT   gjRAc2 by   gjT_R;
   sub gjTH  gjRAc2 by  gjTH_R;
   sub gjD   gjRAc2 by   gjD_R;
@@ -246,15 +235,15 @@ lookup vatu_old {
   sub gjM   gjRAc2 by   gjM_R;
   sub gjY   gjRAc2 by   gjY_R;
   # Reph
-  # sub gjL   gjRAc2 by   gjL_R;
+  sub gjL   gjRAc2 by   gjL_R;
   sub gjV   gjRAc2 by   gjV_R;
-  # sub gjSH  gjRAc2 by  gjSH_R;
-  # sub gjSS  gjRAc2 by  gjSS_R;
+  sub gjSH  gjRAc2 by  gjSH_R;
+  sub gjSS  gjRAc2 by  gjSS_R;
   sub gjS   gjRAc2 by   gjS_R;
   # sub gjH   gjRAc2 by   gjH_R;
-  # sub gjLL  gjRAc2 by  gjLL_R;
+  sub gjLL  gjRAc2 by  gjLL_R;
 
-  # sub gjK_SS gjRAc2 by gjK_SS_R;
+  sub gjK_SS gjRAc2 by gjK_SS_R;
   # sub gjJ_NY gjRAc2 by gjJ_NY_R;
 
 } vatu_old;
@@ -263,58 +252,8 @@ lookup vatu_old {
 # Conjunct Forms
 # --------------
 
-lookup cjct_new {
-
-  # sub gjNGA gjVirama gjNGA by gjNG_NGA;
-  # sub gjNGA gjVirama gjYA by gjNG_YA;
-  # sub gjNGA gjVirama gjVA by gjNG_VA;
-
-  sub gjCHA gjVirama gjYA by gjCH_YA;
-  sub gjCHA gjVirama gjVA by gjCH_VA;
-
-  sub gjTTA gjVirama gjTTA by gjTT_TTA;
-  sub gjTTA gjVirama gjTTHA by gjTT_TTHA;
-  sub gjTTA gjVirama gjYA by gjTT_YA;
-  sub gjTTA gjVirama gjVA by gjTT_VA;
-
-  sub gjTTHA gjVirama gjTTHA by gjTTH_TTHA;
-  sub gjTTHA gjVirama gjYA by gjTTH_YA;
-  # sub gjTTHA gjVirama gjVA by gjTTH_VA;
-
-  sub gjDDA gjVirama gjDDA by gjDD_DDA;
-  sub gjDDA gjVirama gjDDHA by gjDD_DDHA;
-  sub gjDDA gjVirama gjYA by gjDD_YA;
-  sub gjDDA gjVirama gjVA by gjDD_VA;
-
-  sub gjDDHA gjVirama gjDDHA by gjDDH_DDHA;
-  sub gjDDHA gjVirama gjYA by gjDDH_YA;
-  # sub gjDDHA gjVirama gjVA by gjDDH_VA;
-
-  # sub gjDA gjVirama gjGA by gjD_GA;
-  # sub gjDA gjVirama gjG_RA by gjD_G_RA;
-  sub gjDA gjVirama gjGHA by gjD_GHA;
-  sub gjDA gjVirama gjDA by gjD_DA;
-  sub gjDA gjVirama gjDHA by gjD_DHA;
-  # sub gjDA gjVirama gjDH gjYA by gjD_DH_YA;
-  sub gjDA gjVirama gjNA by gjD_NA;
-  # sub gjDA gjVirama gjBA by gjD_BA;
-  # sub gjDA gjVirama gjB_RA by gjD_B_RA;
-  sub gjDA gjVirama gjBHA by gjD_BHA;
-  # sub gjDA gjVirama gjBH gjYA by gjD_BH_YA;
-  sub gjDA gjVirama gjMA by gjD_MA;
-  sub gjDA gjVirama gjYA by gjD_YA;
-  # sub gjD_RA gjVirama gjYA by gjD_R_YA;
-  sub gjDA gjVirama gjVA by gjD_VA;
-  # sub gjDA gjVirama gjV gjYA by gjD_V_YA;
-
-  # sub gjHA gjVirama gjNNA by gjH_NNA;
-  sub gjHA gjVirama gjNA by gjH_NA;
-  sub gjHA gjVirama gjMA by gjH_MA;
-  sub gjHA gjVirama gjYA by gjH_YA;
-  # sub gjHA gjVirama gjLA by gjH_LA;
-  sub gjHA gjVirama gjVA by gjH_VA;
-
-} cjct_new;
+# lookup cjct_new {
+# } cjct_new;
 
 
 # ----------------------------
@@ -347,13 +286,12 @@ lookup pres {
   sub gjK gjCA by gjK_CA;
   sub gjK gjJA by gjK_JA;
   sub gjK gjTTA by gjK_TTA;
-  # sub gjK gjTTHA by gjK_TTHA; #!
   sub gjK gjNNA by gjK_NNA;
   sub gjK gjTA by gjK_TA;
   sub gjK gjT gjYA by gjK_T_YA;
   sub gjK gjT_RA by gjK_T_RA;
   sub gjK gjT gjVA by gjK_T_VA;
-  sub gjK gjTHA by gjK_THA; #!
+  sub gjK gjTHA by gjK_THA;
   sub gjK gjDA by gjK_DA;
   sub gjK gjNA by gjK_NA;
   sub gjK gjPA by gjK_PA;
@@ -365,10 +303,10 @@ lookup pres {
   sub gjK gjVA by gjK_VA;
   sub gjK gjV gjYA by gjK_V_YA;
   sub gjK gjSHA by gjK_SHA;
-  sub gjK gjSS gjMA by gjK_SS_MA;
-  sub gjK gjSS gjM gjYA by gjK_SS_M_YA;
-  sub gjK gjSS gjYA by gjK_SS_YA;
-  sub gjK gjSS gjVA by gjK_SS_VA;
+  sub gjK_SS gjMA by gjK_SS_MA;
+  sub gjK_SS gjM gjYA by gjK_SS_M_YA;
+  sub gjK_SS gjYA by gjK_SS_YA;
+  sub gjK_SS gjVA by gjK_SS_VA;
   sub gjK gjSA by gjK_SA;
   sub gjK gjS gjTTA by gjK_S_TTA;
   sub gjK gjS gjDDA by gjK_S_DDA;
@@ -389,15 +327,18 @@ lookup pres {
   sub gjGH gjYA by gjGH_YA;
   sub gjC gjCA by gjC_CA;
   sub gjC gjCHA by gjC_CHA;
+  sub gjC gjCH gjVA by gjC_CH_VA;
   sub gjC gjNA by gjC_NA;
   sub gjC gjMA by gjC_MA;
   sub gjC gjYA by gjC_YA;
+  sub gjCH gjYA by gjCH_YA;
+  sub gjCH gjVA by gjCH_VA;
   sub gjJ gjKA by gjJ_KA;
   sub gjJ gjJA by gjJ_JA;
   sub gjJ gjJ gjYA by gjJ_J_YA;
   sub gjJ gjJ gjVA by gjJ_J_VA;
   sub gjJ gjJHA by gjJ_JHA;
-  sub gjJ gjNY gjYA by gjJ_NY_YA;
+  sub gjJ_NY gjYA by gjJ_NY_YA;
   sub gjJ gjTTA by gjJ_TTA;
   sub gjJ gjDDA by gjJ_DDA;
   sub gjJ gjTA by gjJ_TA;
@@ -406,11 +347,23 @@ lookup pres {
   sub gjJ gjMA by gjJ_MA;
   sub gjJ gjYA by gjJ_YA;
   sub gjNY gjJA by gjNY_JA;
+  sub gjTT gjTTA by gjTT_TTA;
+  sub gjTT gjTTHA by gjTT_TTHA;
+  sub gjTT gjYA by gjTT_YA;
+  sub gjTT gjVA by gjTT_VA;
+  sub gjTTH gjTTHA by gjTTH_TTHA;
+  sub gjTTH gjYA by gjTTH_YA;
+  sub gjDD gjDDA by gjDD_DDA;
+  sub gjDD gjDDHA by gjDD_DDHA;
+  sub gjDD gjYA by gjDD_YA;
+  sub gjDD gjVA by gjDD_VA;
+  sub gjDDH gjDDHA by gjDDH_DDHA;
+  sub gjDDH gjYA by gjDDH_YA;
   sub gjT gjKA by gjT_KA;
   sub gjT gjK gjYA by gjT_K_YA;
   sub gjT gjK_RA by gjT_K_RA;
   sub gjT gjK gjVA by gjT_K_VA;
-  sub gjT gjK gjSSA by gjT_K_SSA;
+  sub gjT gjK_SSA by gjT_K_SSA;
   sub gjT gjKHA by gjT_KHA;
   sub gjT gjKH gjNA by gjT_KH_NA;
   sub gjT gjKH_RA by gjT_KH_RA;
@@ -438,6 +391,14 @@ lookup pres {
   sub gjTH gjNA by gjTH_NA;
   sub gjTH gjYA by gjTH_YA;
   sub gjTH gjVA by gjTH_VA;
+  sub gjD gjGHA by gjD_GHA;
+  sub gjD gjDA by gjD_DA;
+  sub gjD gjDHA by gjD_DHA;
+  sub gjD gjNA by gjD_NA;
+  sub gjD gjBHA by gjD_BHA;
+  sub gjD gjMA by gjD_MA;
+  sub gjD gjYA by gjD_YA;
+  sub gjD gjVA by gjD_VA;
   sub gjDH gjNA by gjDH_NA;
   sub gjDH gjN gjYA by gjDH_N_YA;
   sub gjDH gjMA by gjDH_MA;
@@ -457,6 +418,7 @@ lookup pres {
   sub gjN gjTH gjYA by gjN_TH_YA;
   sub gjN gjTH gjVA by gjN_TH_VA;
   sub gjN gjDA by gjN_DA;
+  sub gjN gjD gjVA by gjN_D_VA;
   sub gjN gjDHA by gjN_DHA;
   sub gjN gjDH gjYA by gjN_DH_YA;
   sub gjN gjDH_RA by gjN_DH_RA;
@@ -546,8 +508,7 @@ lookup pres {
   sub gjL gjYA by gjL_YA;
   sub gjL gjLA by gjL_LA;
   sub gjL gjL gjYA by gjL_L_YA;
-  # sub gjL gjV gjDDA by gjL_V_DDA; #!
-  sub gjL gjV gjDA by gjL_V_DA; #!
+  sub gjL gjV gjDA by gjL_V_DA;
   sub gjL gjSA by gjL_SA;
   sub gjL gjHA by gjL_HA;
   sub gjV gjNA by gjV_NA;
@@ -561,8 +522,11 @@ lookup pres {
   sub gjSS gjKA by gjSS_KA;
   sub gjSS gjK_RA by gjSS_K_RA;
   sub gjSS gjTTA by gjSS_TTA;
+  sub gjSS gjTT gjYA by gjSS_TT_YA;
   sub gjSS gjTT_RA by gjSS_TT_RA;
+  sub gjSS gjTT gjVA by gjSS_TT_VA;
   sub gjSS gjTTHA by gjSS_TTHA;
+  sub gjSS gjTTH gjYA by gjSS_TTH_YA;
   sub gjSS gjTTH_RA by gjSS_TTH_RA;
   sub gjSS gjNNA by gjSS_NNA;
   sub gjSS gjNN gjYA by gjSS_NN_YA;
@@ -595,87 +559,12 @@ lookup pres {
   sub gjS gjYA by gjS_YA;
   sub gjS gjVA by gjS_VA;
   sub gjS gjSA by gjS_SA;
-  sub gjLL gjYA by gjLL_YA;
-} pres;
-
-lookup pres_new {
-
-  #! The following conjuncts are broken by mI because of Core Text's mI reordering bug.
-
-  sub gjC gjCH_VA by gjC_CH_VA;
-
-  sub gjN gjD_VA by gjN_D_VA;
-
-  sub gjSS gjTT_YA by gjSS_TT_YA;
-  sub gjSS gjTT_VA by gjSS_TT_VA;
-  sub gjSS gjTTH_YA by gjSS_TTH_YA;
-
-} pres_new;
-
-lookup pres_old {
-
-  # lookup cjct_new
-
-  # sub gjNG gjNGA by gjNG_NGA;
-  # sub gjNG gjYA by gjNG_YA;
-  # sub gjNG gjVA by gjNG_VA;
-
-  sub gjCH gjYA by gjCH_YA;
-  sub gjCH gjVA by gjCH_VA;
-
-  sub gjTT gjTTA by gjTT_TTA;
-  sub gjTT gjTTHA by gjTT_TTHA;
-  sub gjTT gjYA by gjTT_YA;
-  sub gjTT gjVA by gjTT_VA;
-
-  sub gjTTH gjTTHA by gjTTH_TTHA;
-  sub gjTTH gjYA by gjTTH_YA;
-  # sub gjTTH gjVA by gjTTH_VA;
-
-  sub gjDD gjDDA by gjDD_DDA;
-  sub gjDD gjDDHA by gjDD_DDHA;
-  sub gjDD gjYA by gjDD_YA;
-  sub gjDD gjVA by gjDD_VA;
-
-  sub gjDDH gjDDHA by gjDDH_DDHA;
-  sub gjDDH gjYA by gjDDH_YA;
-  # sub gjDDH gjVA by gjDDH_VA;
-
-  # sub gjD gjGA by gjD_GA;
-  # sub gjD gjG_RA by gjD_G_RA;
-  sub gjD gjGHA by gjD_GHA;
-  sub gjD gjDA by gjD_DA;
-  sub gjD gjDHA by gjD_DHA;
-  # sub gjD gjDH_YA by gjD_DH_YA;
-  sub gjD gjNA by gjD_NA;
-  # sub gjD gjBA by gjD_BA;
-  # sub gjD gjB_RA by gjD_B_RA;
-  sub gjD gjBHA by gjD_BHA;
-  # sub gjD gjBH_YA by gjD_BH_YA;
-  sub gjD gjMA by gjD_MA;
-  sub gjD gjYA by gjD_YA;
-  # sub gjD_R gjYA by gjD_R_YA;
-  sub gjD gjVA by gjD_VA;
-  # sub gjD gjV_YA by gjD_V_YA;
-
-  # sub gjH gjNNA by gjH_NNA;
   sub gjH gjNA by gjH_NA;
   sub gjH gjMA by gjH_MA;
   sub gjH gjYA by gjH_YA;
-  # sub gjH gjLA by gjH_LA;
   sub gjH gjVA by gjH_VA;
-
-  # lookup pres_new
-
-  sub gjC gjCH gjVA by gjC_CH_VA;
-
-  sub gjN gjD gjVA by gjN_D_VA;
-
-  sub gjSS gjTT gjYA by gjSS_TT_YA;
-  sub gjSS gjTT gjVA by gjSS_TT_VA;
-  sub gjSS gjTTH gjYA by gjSS_TTH_YA;
-
-} pres_old;
+  sub gjLL gjYA by gjLL_YA;
+} pres;
 
 # include (matra_i_matching.fea);
 
@@ -729,8 +618,8 @@ lookup abvs {
   sub gjmII      gjReph by gjmII_Reph;
   sub gjmE       gjReph by gjmE_Reph;
   sub gjmAI      gjReph by gjmAI_Reph;
-  sub gjmO       gjReph by gjmO_Reph;
-  sub gjmAU      gjReph by gjmAU_Reph;
+  # sub gjmO       gjReph by gjmO_Reph;
+  # sub gjmAU      gjReph by gjmAU_Reph;
   # sub gjmEcandra gjReph by gjmEcandra_Reph;
   # sub gjmOcandra gjReph by gjmOcandra_Reph;
 
@@ -738,17 +627,17 @@ lookup abvs {
   sub gjmII      gjAnusvara by gjmII_Anusvara;
   sub gjmE       gjAnusvara by gjmE_Anusvara;
   sub gjmAI      gjAnusvara by gjmAI_Anusvara;
-  sub gjmO       gjAnusvara by gjmO_Anusvara;
-  sub gjmAU      gjAnusvara by gjmAU_Anusvara;
+  # sub gjmO       gjAnusvara by gjmO_Anusvara;
+  # sub gjmAU      gjAnusvara by gjmAU_Anusvara;
   sub gjmEcandra gjAnusvara by gjmEcandra_Anusvara;
-  sub gjmOcandra gjAnusvara by gjmOcandra_Anusvara;
+  # sub gjmOcandra gjAnusvara by gjmOcandra_Anusvara;
 
   # 4. Matra + reph + syllable-modifier:
   sub gjmII      gjReph gjAnusvara by gjmII_Reph_Anusvara;
   sub gjmE       gjReph gjAnusvara by gjmE_Reph_Anusvara;
   sub gjmAI      gjReph gjAnusvara by gjmAI_Reph_Anusvara;
-  sub gjmO       gjReph gjAnusvara by gjmO_Reph_Anusvara;
-  sub gjmAU      gjReph gjAnusvara by gjmAU_Reph_Anusvara;
+  # sub gjmO       gjReph gjAnusvara by gjmO_Reph_Anusvara;
+  # sub gjmAU      gjReph gjAnusvara by gjmAU_Reph_Anusvara;
   # sub gjmEcandra gjReph gjAnusvara by gjmEcandra_Reph_Anusvara;
   # sub gjmOcandra gjReph gjAnusvara by gjmOcandra_Reph_Anusvara;
 

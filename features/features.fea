@@ -126,7 +126,6 @@ feature half {
 
   script gujr;
     lookup half;
-    lookup half_old;
 
 } half;
 
@@ -143,15 +142,15 @@ feature vatu {
 # Conjunct Forms
 # --------------
 
-feature cjct {
-
-  script DFLT;
-    lookup cjct_new;
-
-  script gjr2;
-    lookup cjct_new;
-
-} cjct;
+# feature cjct {
+#
+#   script DFLT;
+#     lookup cjct_new;
+#
+#   script gjr2;
+#     lookup cjct_new;
+#
+# } cjct;
 
 
 # ----------------------------
@@ -166,19 +165,16 @@ feature pres {
   script DFLT;
     lookup pres_decompose;
     lookup pres;
-    lookup pres_new;
     # lookup GENERATED_matra_i_matching;
 
   script gjr2;
     lookup pres_decompose;
     lookup pres;
-    lookup pres_new;
     # lookup GENERATED_matra_i_matching;
 
   script gujr;
     lookup pres_decompose;
     lookup pres;
-    lookup pres_old;
     # lookup GENERATED_matra_i_matching;
 
 } pres;
