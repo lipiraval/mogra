@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 import hindkit as kit
-kit.confirm_version('0.3.0')
+kit.confirm_version('0.3.1')
 
 # - - -
 
@@ -23,6 +23,8 @@ family.set_masters(
 
 family.set_styles([('Regular', 0, 400)])
 
+family.styles[0]._output_full_name_postscript = family.output_name_postscript
+
 # - - -
 
 builder = kit.Builder(family)
@@ -35,7 +37,7 @@ builder.set_options([
     'prepare_features', # stage ii
     'compile',          # stage iii
 
-    'makeinstances', #!
+    # 'makeinstances', #!
     'checkoutlines', #!
     # 'autohint',      #!
 
@@ -46,7 +48,7 @@ builder.set_options([
 
 ])
 
-builder.generate_designspace()
+# builder.generate_designspace()
 builder.generate_fmndb()
 
 builder.build()
