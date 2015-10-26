@@ -6,12 +6,13 @@ kit.confirm_version('0.3.0')
 # - - -
 
 family = kit.Family(
-    trademark = 'Hind',
-    script = 'Bangla',
-    # hide_script_name = True,
+    trademark = 'Mogra',
+    script = 'Gujarati',
+    hide_script_name = True,
 )
 
 family.set_masters(
+    masters = [kit.Master(family, 'Regular', 0)],
     modules = [
         'kerning',
         'mark_positioning',
@@ -20,13 +21,13 @@ family.set_masters(
     ],
 )
 
-family.set_styles()
+family.set_styles([('Regular', 0, 400)])
 
 # - - -
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '1.000'
+builder.fontrevision = '0.300'
 
 builder.set_options([
 
@@ -36,7 +37,7 @@ builder.set_options([
 
     'makeinstances', #!
     'checkoutlines', #!
-    'autohint',      #!
+    # 'autohint',      #!
 
     'do_style_linking',
     'use_os_2_version_4',
