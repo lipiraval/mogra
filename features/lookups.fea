@@ -568,6 +568,10 @@ lookup pres {
 
 # include (matra_i_matching.fea);
 
+lookup pres_matra_i {
+  sub gjmI' [gjDHA gjDH_RA gjD_YA] by gjmI.tall;
+} pres_matra_i;
+
 
 # Above-base Substitution
 # -----------------------
@@ -663,6 +667,60 @@ lookup abvs {
 #     by
 #     @matra_i_marks_alt;
 # } abvs_marks_for_matra_i;
+
+# @matra_i_variants = [gjmI.01 gjmI.02 gjmI.03 gjmI.04 gjmI.05 gjmI.06 gjmI.07];
+# @matra_i_anusvara_variants = [gjmI_Anusvara.01 gjmI_Anusvara.02 gjmI_Anusvara.03 gjmI_Anusvara.04 gjmI_Anusvara.05 gjmI_Anusvara.06 gjmI_Anusvara.07];
+# @matra_i_reph_variants = [gjmI_Reph.01 gjmI_Reph.02 gjmI_Reph.03 gjmI_Reph.04 gjmI_Reph.05 gjmI_Reph.06 gjmI_Reph.07];
+# @matra_i_reph_anusvara_variants = [gjmI_Reph_Anusvara.01 gjmI_Reph_Anusvara.02 gjmI_Reph_Anusvara.03 gjmI_Reph_Anusvara.04 gjmI_Reph_Anusvara.05 gjmI_Reph_Anusvara.06 gjmI_Reph_Anusvara.07];
+#
+# @MARKS_BELOW = [gjRAc2];
+#
+# lookup abvs_matrai_step_A {
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I gjAnusvara by @matra_i_anusvara_variants;
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I gjReph by @matra_i_reph_variants;
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I gjReph_Anusvara by @matra_i_reph_anusvara_variants;
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I @MARKS_BELOW gjAnusvara by @matra_i_anusvara_variants;
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I @MARKS_BELOW gjReph by @matra_i_reph_variants;
+#   sub @matra_i_variants' @generated_BASES_FOR_MATRA_I @MARKS_BELOW gjReph_Anusvara by @matra_i_reph_anusvara_variants;
+# } abvs_matrai_step_A;
+#
+# lookup abvs_matrai_step_B {
+#   sub
+#     [@matra_i_anusvara_variants @matra_i_reph_variants @matra_i_reph_anusvara_variants] @generated_BASES_FOR_MATRA_I
+#     [gjAnusvara gjReph gjReph_Anusvara]'
+#     by
+#     \NULL;
+#   sub
+#     [@matra_i_anusvara_variants @matra_i_reph_variants @matra_i_reph_anusvara_variants] @generated_BASES_FOR_MATRA_I @MARKS_BELOW
+#     [gjAnusvara gjReph gjReph_Anusvara]'
+#     by
+#     \NULL;
+# } abvs_matrai_step_B;
+
+@matra_i_variants = [gjmI gjmI.tall];
+@matra_i_reph_variants = [gjmI_Reph gjmI_Reph.tall];
+@matra_i_reph_anusvara_variants = [gjmI_Reph_Anusvara gjmI_Reph_Anusvara.tall];
+
+@BASES_FOR_MATRA_I = [
+  gjKA gjNGA gjCHA gjJA gjJHA gjTTA gjTTHA gjDDA gjDDHA gjDA gjPHA gjRA gjHA
+  gjK_RA gjNG_RA gjCH_RA gjJ_RA gjJH_RA gjTT_RA gjTTH_RA gjDD_RA gjDDH_RA gjD_RA gjPH_RA gjH_RA
+  gjTT_TTA gjTT_TTHA gjTT_VA gjTTH_TTHA gjDD_DDA gjDD_DDHA gjDD_VA gjDDH_DDHA gjD_GHA gjD_DA gjD_DHA gjD_NA gjD_BHA gjD_VA gjH_NA gjH_VA
+  gjDHA gjDH_RA gjD_YA
+];
+
+lookup abvs_matrai_step_A {
+  sub @matra_i_variants' @BASES_FOR_MATRA_I gjReph by @matra_i_reph_variants;
+  sub @matra_i_variants' @BASES_FOR_MATRA_I gjReph_Anusvara by @matra_i_reph_anusvara_variants;
+} abvs_matrai_step_A;
+
+lookup abvs_matrai_step_B {
+  sub
+    [@matra_i_reph_variants @matra_i_reph_anusvara_variants]
+    @BASES_FOR_MATRA_I
+    [gjReph gjReph_Anusvara]'
+    by
+    gjNull;
+} abvs_matrai_step_B;
 
 
 # Below-base Substitution
