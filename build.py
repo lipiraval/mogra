@@ -29,7 +29,7 @@ family.styles[0]._output_full_name_postscript = family.output_name_postscript
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.300'
+builder.fontrevision = '0.900'
 
 builder.set_options([
 
