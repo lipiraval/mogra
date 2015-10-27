@@ -610,44 +610,51 @@ gjH_LA gjH_LA
 gjH_VA gjH_VA
 gjLL_YA gjLL_YA
 
-gjmI.alt01 gjmI.alt01
-gjmI.alt02 gjmI.alt02
-gjmI.alt03 gjmI.alt03
-gjmI.alt04 gjmI.alt04
-gjmI.alt05 gjmI.alt05
-gjmI.alt06 gjmI.alt06
-gjmI.alt07 gjmI.alt07
-gjmI.alt08 gjmI.alt08
-gjmI.alt09 gjmI.alt09
-gjmI.alt10 gjmI.alt10
-gjmI.alt11 gjmI.alt11
-gjmI.alt12 gjmI.alt12
-gjmI.alt13 gjmI.alt13
-gjmI.alt14 gjmI.alt14
-gjmI.alt15 gjmI.alt15
-gjmI.alt16 gjmI.alt16
-gjmI.alt17 gjmI.alt17
-gjmI.alt18 gjmI.alt18
-gjmI.alt19 gjmI.alt19
-gjmI.alt20 gjmI.alt20
-gjmI.alt21 gjmI.alt21
-gjmI.alt22 gjmI.alt22
-gjmI.alt23 gjmI.alt23
-gjmI.alt24 gjmI.alt24
-gjmI.alt25 gjmI.alt25
-gjmI.alt26 gjmI.alt26
-gjmI.alt27 gjmI.alt27
-gjmI.alt28 gjmI.alt28
-gjmI.alt29 gjmI.alt29
-gjmI.alt30 gjmI.alt30
-gjmI.alt31 gjmI.alt31
-gjmI.alt32 gjmI.alt32
+gjmI.01 gjmI.01
+gjmI.02 gjmI.02
+gjmI.03 gjmI.03
+gjmI.04 gjmI.04
+gjmI.05 gjmI.05
+gjmI.06 gjmI.06
+gjmI.07 gjmI.07
+gjmI.08 gjmI.08
+gjmI.09 gjmI.09
+gjmI.10 gjmI.10
+gjmI.11 gjmI.11
+gjmI.12 gjmI.12
+gjmI.13 gjmI.13
+gjmI.14 gjmI.14
+gjmI.15 gjmI.15
+gjmI.16 gjmI.16
+gjmI.17 gjmI.17
+gjmI.18 gjmI.18
+gjmI.19 gjmI.19
+gjmI.20 gjmI.20
+gjmI.21 gjmI.21
+gjmI.22 gjmI.22
+gjmI.23 gjmI.23
+gjmI.24 gjmI.24
+gjmI.25 gjmI.25
+gjmI.26 gjmI.26
+gjmI.27 gjmI.27
+gjmI.28 gjmI.28
+gjmI.29 gjmI.29
+gjmI.30 gjmI.30
+gjmI.31 gjmI.31
+gjmI.32 gjmI.32
 
 gjReph_Anusvara gjReph_Anusvara
 
 gjAnusvara.matrai gjAnusvara.matrai
 gjReph.matrai gjReph.matrai
 gjReph_Anusvara.matrai gjReph_Anusvara.matrai
+
+gjmI_Reph gjmI_Reph
+gjmI_Reph_Anusvara gjmI_Reph_Anusvara
+
+gjmI.tall gjmI.tall
+gjmI_Reph.tall gjmI_Reph.tall
+gjmI_Reph_Anusvara.tall gjmI_Reph_Anusvara.tall 
 
 gjmII_Anusvara gjmII_Anusvara
 gjmII_Reph gjmII_Reph
@@ -681,6 +688,15 @@ gjRA_mUU gjRA_mUU
 gjDA_mvR gjDA_mvR
 gjSHA_mvR gjSHA_mvR
 gjHA_mvR gjHA_mvR
+
+gjCHA_mU gjCHA_mU
+gjCHA_mUU gjCHA_mUU
+gjC_CHA_mU gjC_CHA_mU
+gjC_CHA_mUU gjC_CHA_mUU
+gjN_CHA_mU gjN_CHA_mU
+gjN_CHA_mUU gjN_CHA_mUU
+
+gjNull gjNull
 
 # ---
 
@@ -1020,3 +1036,10 @@ greaterequal greaterequal uni2265 # GREATER-THAN OR EQUAL TO
 lozenge lozenge uni25CA # LOZENGE
 fi fi uniFB01 # LATIN SMALL LIGATURE FI
 fl fl uniFB02 # LATIN SMALL LIGATURE FL
+
+f_f f_f
+f_f_i f_f_i
+f_f_l f_f_l
+
+j.calt j.calt
+q.calt q.calt
