@@ -1,0 +1,35 @@
+@generated_MARKS = [
+  gjmU
+  gjmUU
+  gjmvR
+  gjmE
+  gjmAI
+  gjmEcandra
+  gjAnusvara
+  gjCandrabindu
+  gjVirama
+  gjReph
+  gjRAc2
+  gjReph_Anusvara
+  gjmE_Anusvara
+  gjmE_Reph
+  gjmE_Reph_Anusvara
+  gjmAI_Anusvara
+  gjmAI_Reph
+  gjmAI_Reph_Anusvara
+  grave
+  dieresis
+  macron
+  acute
+  cedilla
+  iogonek
+  circumflex
+  caron
+  macronmod
+  breve
+  dotaccent
+  ring
+  ogonek
+  tilde
+  hungarumlaut
+];
