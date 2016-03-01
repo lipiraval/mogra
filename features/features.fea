@@ -202,6 +202,8 @@ feature abvs {
 feature blws {
   lookup blws;
   lookup blws_variants;
+  lookup blws_rakar_mU;
+  lookup blws_rakar_mUU;
 } blws;
 
 
@@ -236,8 +238,8 @@ feature blws {
 # As the fallback for <rclt> in Adobe's environment.
 
 feature calt {
-  sub [g j j.calt q q.calt y] j' by j.calt;
-  sub q' [j j.calt p] by q.calt;
+  sub [g j j.alt q q.alt y] j' by j.alt;
+  sub q' [j j.alt p] by q.alt;
 } calt;
 
 
