@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronmod" format="1">
+  <advance width="478"/>
+  <outline>
+    <contour>
+      <point x="313" y="593" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="486" y="614" type="curve"/>
+      <point x="528" y="647"/>
+      <point x="532" y="706"/>
+      <point x="480" y="739" type="curve"/>
+      <point x="352" y="725"/>
+      <point x="247" y="724"/>
+      <point x="114" y="724" type="curve"/>
+      <point x="73" y="684"/>
+      <point x="77" y="623"/>
+      <point x="128" y="600" type="curve"/>
+      <point x="259" y="607"/>
+      <point x="355" y="610"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-03 17:46:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>macron</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>macron</string>
+    </dict>
+  </lib>
+</glyph>

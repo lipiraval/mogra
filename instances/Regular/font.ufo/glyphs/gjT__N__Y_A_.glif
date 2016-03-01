@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjT_N_YA" format="1">
+  <advance width="1473"/>
+  <outline>
+    <contour>
+      <point x="1229" y="160" type="curve"/>
+      <point x="1274" y="285"/>
+      <point x="1353" y="450"/>
+      <point x="1353" y="493" type="curve" smooth="yes"/>
+      <point x="1353" y="520"/>
+      <point x="1241" y="593"/>
+      <point x="1202" y="593" type="curve" smooth="yes"/>
+      <point x="1171" y="593"/>
+      <point x="1165" y="355"/>
+      <point x="910" y="233" type="curve"/>
+      <point x="882" y="263" type="line"/>
+      <point x="1012" y="331"/>
+      <point x="1093" y="434"/>
+      <point x="1093" y="495" type="curve" smooth="yes"/>
+      <point x="1093" y="545"/>
+      <point x="1003" y="619"/>
+      <point x="947" y="619" type="curve" smooth="yes"/>
+      <point x="876" y="619"/>
+      <point x="750" y="589"/>
+      <point x="750" y="518" type="curve" smooth="yes"/>
+      <point x="750" y="482"/>
+      <point x="771" y="452"/>
+      <point x="811" y="419" type="curve"/>
+      <point x="874" y="452"/>
+      <point x="898" y="464"/>
+      <point x="961" y="480" type="curve"/>
+      <point x="930" y="422"/>
+      <point x="881" y="388"/>
+      <point x="835" y="362" type="curve"/>
+      <point x="764" y="406"/>
+      <point x="649" y="425"/>
+      <point x="579" y="425" type="curve" smooth="yes"/>
+      <point x="429" y="425"/>
+      <point x="331" y="361"/>
+      <point x="331" y="247" type="curve" smooth="yes"/>
+      <point x="331" y="143"/>
+      <point x="418" y="0"/>
+      <point x="513" y="0" type="curve" smooth="yes"/>
+      <point x="646" y="0"/>
+      <point x="663" y="156"/>
+      <point x="634" y="303" type="curve"/>
+      <point x="660" y="302"/>
+      <point x="680" y="300"/>
+      <point x="708" y="295" type="curve"/>
+      <point x="724" y="196"/>
+      <point x="813" y="104"/>
+      <point x="881" y="104" type="curve" smooth="yes"/>
+      <point x="955" y="104"/>
+      <point x="1071" y="196"/>
+      <point x="1125" y="262" type="curve"/>
+      <point x="1144" y="247" type="line"/>
+      <point x="1111" y="200"/>
+      <point x="1069" y="151"/>
+      <point x="1069" y="125" type="curve" smooth="yes"/>
+      <point x="1069" y="84"/>
+      <point x="1188" y="0"/>
+      <point x="1224" y="0" type="curve" smooth="yes"/>
+      <point x="1276" y="0"/>
+      <point x="1430" y="76"/>
+      <point x="1430" y="130" type="curve" smooth="yes"/>
+      <point x="1430" y="183"/>
+      <point x="1395" y="222"/>
+      <point x="1330" y="241" type="curve"/>
+      <point x="1299" y="208"/>
+      <point x="1272" y="188"/>
+    </contour>
+    <contour>
+      <point x="437" y="243" type="curve"/>
+      <point x="470" y="269"/>
+      <point x="501" y="285"/>
+      <point x="551" y="291" type="curve"/>
+      <point x="557" y="233"/>
+      <point x="554" y="189"/>
+      <point x="534" y="140" type="curve"/>
+      <point x="479" y="161"/>
+      <point x="455" y="200"/>
+    </contour>
+    <contour>
+      <point x="456" y="395" type="curve"/>
+      <point x="388" y="436"/>
+      <point x="286" y="461"/>
+      <point x="204" y="461" type="curve" smooth="yes"/>
+      <point x="110" y="461"/>
+      <point x="0" y="360"/>
+      <point x="0" y="286" type="curve" smooth="yes"/>
+      <point x="0" y="162"/>
+      <point x="75" y="0"/>
+      <point x="175" y="0" type="curve" smooth="yes"/>
+      <point x="249" y="0"/>
+      <point x="285" y="47"/>
+      <point x="283" y="101" type="curve"/>
+      <point x="212" y="150"/>
+      <point x="170" y="228"/>
+      <point x="163" y="311" type="curve"/>
+      <point x="242" y="337"/>
+      <point x="322" y="326"/>
+      <point x="392" y="305" type="curve"/>
+      <point x="440" y="312"/>
+      <point x="461" y="357"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-09-30 15:45:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjTA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjYA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjT_NA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjN_YA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>1082</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjT_N_YA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1473</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

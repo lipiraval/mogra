@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjSS_VA" format="1">
+  <advance width="1045"/>
+  <outline>
+    <contour>
+      <point x="801" y="160" type="curve"/>
+      <point x="846" y="285"/>
+      <point x="925" y="450"/>
+      <point x="925" y="493" type="curve" smooth="yes"/>
+      <point x="925" y="520"/>
+      <point x="813" y="593"/>
+      <point x="774" y="593" type="curve" smooth="yes"/>
+      <point x="737" y="593"/>
+      <point x="745" y="330"/>
+      <point x="481" y="272" type="curve"/>
+      <point x="502" y="380"/>
+      <point x="566" y="466"/>
+      <point x="686" y="507" type="curve"/>
+      <point x="689" y="566"/>
+      <point x="650" y="612"/>
+      <point x="571" y="619" type="curve"/>
+      <point x="468" y="578"/>
+      <point x="399" y="492"/>
+      <point x="357" y="384" type="curve"/>
+      <point x="329" y="453"/>
+      <point x="293" y="520"/>
+      <point x="274" y="544" type="curve" smooth="yes"/>
+      <point x="249" y="576"/>
+      <point x="173" y="619"/>
+      <point x="140" y="619" type="curve" smooth="yes"/>
+      <point x="61" y="619"/>
+      <point x="-53" y="564"/>
+      <point x="-53" y="512" type="curve" smooth="yes"/>
+      <point x="-53" y="470"/>
+      <point x="-8" y="415"/>
+      <point x="41" y="398" type="curve"/>
+      <point x="80" y="426"/>
+      <point x="106" y="449"/>
+      <point x="137" y="470" type="curve"/>
+      <point x="159" y="444" type="line"/>
+      <point x="55" y="351" type="line"/>
+      <point x="40" y="313"/>
+      <point x="28" y="261"/>
+      <point x="28" y="234" type="curve" smooth="yes"/>
+      <point x="28" y="204"/>
+      <point x="131" y="133"/>
+      <point x="175" y="133" type="curve" smooth="yes"/>
+      <point x="211" y="133"/>
+      <point x="299" y="183"/>
+      <point x="362" y="226" type="curve"/>
+      <point x="401" y="181"/>
+      <point x="468" y="142"/>
+      <point x="504" y="142" type="curve" smooth="yes"/>
+      <point x="567" y="142"/>
+      <point x="645" y="208"/>
+      <point x="697" y="265" type="curve"/>
+      <point x="720" y="247" type="line"/>
+      <point x="687" y="200"/>
+      <point x="641" y="148"/>
+      <point x="641" y="124" type="curve" smooth="yes"/>
+      <point x="641" y="85"/>
+      <point x="760" y="0"/>
+      <point x="796" y="0" type="curve" smooth="yes"/>
+      <point x="848" y="0"/>
+      <point x="1002" y="76"/>
+      <point x="1002" y="130" type="curve" smooth="yes"/>
+      <point x="1002" y="183"/>
+      <point x="967" y="222"/>
+      <point x="902" y="241" type="curve"/>
+      <point x="871" y="208"/>
+      <point x="844" y="188"/>
+    </contour>
+    <contour>
+      <point x="184" y="287" type="line"/>
+      <point x="210" y="330"/>
+      <point x="240" y="387"/>
+      <point x="260" y="435" type="curve"/>
+      <point x="314" y="339" type="line"/>
+      <point x="285" y="313"/>
+      <point x="252" y="290"/>
+      <point x="206" y="263" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-02 12:08:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjSSA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjVA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjP</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjVA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>372</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjSS_VA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1045</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

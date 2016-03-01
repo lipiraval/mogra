@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjS_TT_RA" format="1">
+  <advance width="1057"/>
+  <outline>
+    <contour>
+      <point x="757" y="-277" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="757" y="-277" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="724" y="642" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="155" y="207" type="line"/>
+      <point x="323" y="270"/>
+      <point x="448" y="379"/>
+      <point x="448" y="468" type="curve" smooth="yes"/>
+      <point x="448" y="521"/>
+      <point x="378" y="619"/>
+      <point x="304" y="619" type="curve" smooth="yes"/>
+      <point x="207" y="619"/>
+      <point x="80" y="583"/>
+      <point x="80" y="519" type="curve" smooth="yes"/>
+      <point x="80" y="478"/>
+      <point x="108" y="438"/>
+      <point x="142" y="416" type="curve"/>
+      <point x="198" y="442"/>
+      <point x="236" y="456"/>
+      <point x="307" y="467" type="curve"/>
+      <point x="266" y="390"/>
+      <point x="187" y="333"/>
+      <point x="75" y="299" type="curve"/>
+      <point x="131" y="279" type="line"/>
+      <point x="126" y="334"/>
+      <point x="105" y="400"/>
+      <point x="69" y="400" type="curve" smooth="yes"/>
+      <point x="27" y="400"/>
+      <point x="-43" y="360"/>
+      <point x="-43" y="332" type="curve" smooth="yes"/>
+      <point x="-43" y="290"/>
+      <point x="4" y="192"/>
+      <point x="39" y="192" type="curve" smooth="yes"/>
+      <point x="58" y="192"/>
+      <point x="79" y="199"/>
+      <point x="101" y="210" type="curve"/>
+      <point x="50" y="219" type="line"/>
+      <point x="71" y="117"/>
+      <point x="138" y="0"/>
+      <point x="203" y="0" type="curve" smooth="yes"/>
+      <point x="270" y="0"/>
+      <point x="402" y="47"/>
+      <point x="402" y="106" type="curve" smooth="yes"/>
+      <point x="402" y="151"/>
+      <point x="375" y="199"/>
+      <point x="316" y="219" type="curve"/>
+      <point x="263" y="188"/>
+      <point x="218" y="172"/>
+      <point x="170" y="161" type="curve"/>
+    </contour>
+    <contour>
+      <point x="530" y="413" type="curve"/>
+      <point x="438" y="379"/>
+      <point x="388" y="361"/>
+      <point x="276" y="344" type="curve"/>
+      <point x="267" y="270" type="line"/>
+      <point x="366" y="272"/>
+      <point x="459" y="290"/>
+      <point x="545" y="315" type="curve"/>
+      <point x="577" y="349"/>
+      <point x="577" y="400"/>
+    </contour>
+    <contour>
+      <point x="997" y="152" type="curve" smooth="yes"/>
+      <point x="997" y="205"/>
+      <point x="973" y="234"/>
+      <point x="922" y="256" type="curve"/>
+      <point x="842" y="198"/>
+      <point x="750" y="156"/>
+      <point x="644" y="144" type="curve"/>
+      <point x="680" y="242"/>
+      <point x="980" y="326"/>
+      <point x="980" y="482" type="curve" smooth="yes"/>
+      <point x="980" y="534"/>
+      <point x="889" y="619"/>
+      <point x="814" y="619" type="curve" smooth="yes"/>
+      <point x="721" y="619"/>
+      <point x="575" y="583"/>
+      <point x="575" y="503" type="curve" smooth="yes"/>
+      <point x="575" y="464"/>
+      <point x="602" y="428"/>
+      <point x="639" y="403" type="curve"/>
+      <point x="711" y="444"/>
+      <point x="753" y="464"/>
+      <point x="842" y="483" type="curve"/>
+      <point x="815" y="390"/>
+      <point x="488" y="286"/>
+      <point x="488" y="177" type="curve" smooth="yes"/>
+      <point x="488" y="102"/>
+      <point x="593" y="0"/>
+      <point x="669" y="0" type="curve" smooth="yes"/>
+      <point x="802" y="0"/>
+      <point x="997" y="75"/>
+    </contour>
+    <contour>
+      <point x="895" y="-198" type="curve"/>
+      <point x="820" y="-170"/>
+      <point x="785" y="-38"/>
+      <point x="715" y="-38" type="curve" smooth="yes"/>
+      <point x="655" y="-38"/>
+      <point x="581" y="-115"/>
+      <point x="535" y="-167" type="curve"/>
+      <point x="531" y="-234"/>
+      <point x="586" y="-266"/>
+      <point x="662" y="-249" type="curve"/>
+      <point x="686" y="-205"/>
+      <point x="707" y="-170"/>
+      <point x="735" y="-137" type="curve"/>
+      <point x="776" y="-172"/>
+      <point x="785" y="-256"/>
+      <point x="845" y="-256" type="curve" smooth="yes"/>
+      <point x="881" y="-256"/>
+      <point x="900" y="-231"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-04 14:15:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjSA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjTT_RA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjS_TTA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjTT_RA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>1057</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjS_TT_RA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1057</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

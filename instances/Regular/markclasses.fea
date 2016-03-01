@@ -1,0 +1,34 @@
+# Created: Tue Mar  1 13:18:05 2016
+# PS Name: Mogra
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm_n221_622 = [gjReph gjReph_Anusvara];
+@mGC_abvm_n271_642 = [gjmE gjmAI gjAnusvara gjmE_Anusvara gjmE_Reph gjmE_Reph_Anusvara gjmAI_Anusvara gjmAI_Reph gjmAI_Reph_Anusvara];
+@mGC_abvm_n278_619 = [gjmEcandra gjCandrabindu];
+@mGC_blwm_n379_n52 = [gjRAc2 gjRAc2_mU gjRAc2_mUU];
+@mGC_top_313_593 = [macron macronmod];
+
+markClass @mGC_abvm_n221_622 <anchor -221 622> @MC_abvm;
+markClass @mGC_abvm_n271_642 <anchor -271 642> @MC_abvm;
+markClass @mGC_abvm_n278_619 <anchor -278 619> @MC_abvm;
+markClass @mGC_blwm_n379_n52 <anchor -379 -52> @MC_blwm;
+markClass @mGC_top_313_593 <anchor 313 593> @MC_top;
+markClass acute <anchor 145 593> @MC_top;
+markClass breve <anchor 274 593> @MC_top;
+markClass caron <anchor 359 593> @MC_top;
+markClass cedilla <anchor 208 0> @MC_bottom;
+markClass circumflex <anchor 341 593> @MC_top;
+markClass dieresis <anchor 310 593> @MC_top;
+markClass dotaccent <anchor 156 593> @MC_top;
+markClass gjVirama <anchor -350 -30> @MC_blwm;
+markClass gjmU <anchor -382 0> @MC_blwm.u;
+markClass gjmUU <anchor -366 0> @MC_blwm;
+markClass gjmvR <anchor -275 -52> @MC_blwm.u;
+markClass grave <anchor 257 593> @MC_top;
+markClass hungarumlaut <anchor 266 593> @MC_top;
+markClass iogonek <anchor 191 593> @MC_top;
+markClass ogonek <anchor 242 0> @MC_ogonek;
+markClass ring <anchor 244 593> @MC_top;
+markClass tilde <anchor 337 593> @MC_top;
+

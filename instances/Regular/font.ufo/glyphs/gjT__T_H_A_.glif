@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjT_THA" format="1">
+  <advance width="1115"/>
+  <outline>
+    <contour>
+      <point x="871" y="160" type="curve"/>
+      <point x="916" y="285"/>
+      <point x="995" y="450"/>
+      <point x="995" y="493" type="curve" smooth="yes"/>
+      <point x="995" y="520"/>
+      <point x="883" y="593"/>
+      <point x="844" y="593" type="curve" smooth="yes"/>
+      <point x="813" y="593"/>
+      <point x="807" y="347"/>
+      <point x="531" y="220" type="curve"/>
+      <point x="503" y="250" type="line"/>
+      <point x="652" y="331"/>
+      <point x="735" y="434"/>
+      <point x="735" y="495" type="curve" smooth="yes"/>
+      <point x="735" y="545"/>
+      <point x="645" y="619"/>
+      <point x="589" y="619" type="curve" smooth="yes"/>
+      <point x="478" y="619"/>
+      <point x="357" y="558"/>
+      <point x="357" y="500" type="curve" smooth="yes"/>
+      <point x="357" y="458"/>
+      <point x="416" y="406"/>
+      <point x="490" y="368" type="curve"/>
+      <point x="473" y="359" type="line"/>
+      <point x="378" y="389"/>
+      <point x="280" y="411"/>
+      <point x="181" y="411" type="curve" smooth="yes"/>
+      <point x="105" y="411"/>
+      <point x="-9" y="312"/>
+      <point x="-9" y="239" type="curve" smooth="yes"/>
+      <point x="-9" y="154"/>
+      <point x="65" y="0"/>
+      <point x="154" y="0" type="curve" smooth="yes"/>
+      <point x="228" y="0"/>
+      <point x="264" y="47"/>
+      <point x="262" y="101" type="curve"/>
+      <point x="206" y="143"/>
+      <point x="175" y="185"/>
+      <point x="153" y="270" type="curve"/>
+      <point x="224" y="285"/>
+      <point x="279" y="279"/>
+      <point x="335" y="268" type="curve"/>
+      <point x="361" y="182"/>
+      <point x="439" y="100"/>
+      <point x="503" y="100" type="curve" smooth="yes"/>
+      <point x="595" y="100"/>
+      <point x="716" y="196"/>
+      <point x="767" y="262" type="curve"/>
+      <point x="786" y="247" type="line"/>
+      <point x="753" y="200"/>
+      <point x="711" y="151"/>
+      <point x="711" y="125" type="curve" smooth="yes"/>
+      <point x="711" y="84"/>
+      <point x="830" y="0"/>
+      <point x="866" y="0" type="curve" smooth="yes"/>
+      <point x="918" y="0"/>
+      <point x="1072" y="76"/>
+      <point x="1072" y="130" type="curve" smooth="yes"/>
+      <point x="1072" y="183"/>
+      <point x="1037" y="222"/>
+      <point x="972" y="241" type="curve"/>
+      <point x="941" y="208"/>
+      <point x="914" y="188"/>
+    </contour>
+    <contour>
+      <point x="614" y="500" type="curve"/>
+      <point x="595" y="460"/>
+      <point x="570" y="429"/>
+      <point x="542" y="406" type="curve"/>
+      <point x="520" y="423"/>
+      <point x="503" y="445"/>
+      <point x="492" y="468" type="curve"/>
+      <point x="528" y="486"/>
+      <point x="563" y="497"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-09-29 16:04:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjTHA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjT_YA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjT_THA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1115</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjG_NA" format="1">
+  <advance width="743"/>
+  <outline>
+    <contour>
+      <point x="499" y="160" type="curve"/>
+      <point x="544" y="285"/>
+      <point x="623" y="450"/>
+      <point x="623" y="493" type="curve" smooth="yes"/>
+      <point x="623" y="520"/>
+      <point x="511" y="593"/>
+      <point x="472" y="593" type="curve" smooth="yes"/>
+      <point x="455" y="593"/>
+      <point x="438" y="519"/>
+      <point x="416" y="424" type="curve"/>
+      <point x="350" y="442"/>
+      <point x="299" y="453"/>
+      <point x="237" y="453" type="curve" smooth="yes"/>
+      <point x="87" y="453"/>
+      <point x="-11" y="389"/>
+      <point x="-11" y="275" type="curve" smooth="yes"/>
+      <point x="-11" y="171"/>
+      <point x="76" y="28"/>
+      <point x="171" y="28" type="curve" smooth="yes"/>
+      <point x="304" y="28"/>
+      <point x="321" y="184"/>
+      <point x="294" y="324" type="curve"/>
+      <point x="326" y="323"/>
+      <point x="353" y="319"/>
+      <point x="399" y="312" type="curve"/>
+      <point x="381" y="263"/>
+      <point x="339" y="139"/>
+      <point x="339" y="125" type="curve" smooth="yes"/>
+      <point x="339" y="83"/>
+      <point x="460" y="0"/>
+      <point x="494" y="0" type="curve" smooth="yes"/>
+      <point x="546" y="0"/>
+      <point x="700" y="76"/>
+      <point x="700" y="130" type="curve" smooth="yes"/>
+      <point x="700" y="183"/>
+      <point x="665" y="222"/>
+      <point x="600" y="241" type="curve"/>
+      <point x="569" y="208"/>
+      <point x="542" y="188"/>
+    </contour>
+    <contour>
+      <point x="95" y="271" type="curve"/>
+      <point x="128" y="297"/>
+      <point x="159" y="313"/>
+      <point x="209" y="319" type="curve"/>
+      <point x="215" y="261"/>
+      <point x="212" y="217"/>
+      <point x="192" y="168" type="curve"/>
+      <point x="137" y="189"/>
+      <point x="113" y="228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-03 17:46:42 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjNA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjNA</string>
+    </dict>
+  </lib>
+</glyph>

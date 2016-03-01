@@ -1,0 +1,101 @@
+# Created: Tue Mar  1 13:18:05 2016
+# PS Name: Mogra
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	@bGC_C_bottom = [C Ccedilla Cacute Ccaron];
+	@bGC_S_bottom = [S Sacute Scedilla Scaron Scommaaccent];
+	@bGC_T_bottom = [T Tcedilla Tcaron Tcommaaccent];
+	@bGC_c_bottom = [c ccedilla cacute ccaron];
+	@bGC_s_bottom = [s sacute scedilla scaron scommaaccent];
+	@bGC_t_bottom = [t tcedilla tcaron tcommaaccent];
+	pos base @bGC_C_bottom <anchor 316 0> mark @MC_bottom;
+	pos base @bGC_S_bottom <anchor 244 0> mark @MC_bottom;
+	pos base @bGC_T_bottom <anchor 317 0> mark @MC_bottom;
+	pos base @bGC_c_bottom <anchor 276 0> mark @MC_bottom;
+	pos base @bGC_s_bottom <anchor 266 0> mark @MC_bottom;
+	pos base @bGC_t_bottom <anchor 226 0> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+
+lookup MARK_BASE_ogonek {
+	@bGC_A_ogonek = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve];
+	@bGC_E_ogonek = [E Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Ecaron];
+	@bGC_I_ogonek = [I Igrave Iacute Icircumflex Idieresis Imacron Idotaccent];
+	@bGC_U_ogonek = [U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut];
+	@bGC_a_ogonek = [a agrave aacute acircumflex atilde adieresis aring amacron abreve];
+	@bGC_e_ogonek = [e egrave eacute ecircumflex edieresis emacron edotaccent ecaron];
+	@bGC_u_ogonek = [u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut];
+	pos base @bGC_A_ogonek <anchor 491 0> mark @MC_ogonek;
+	pos base @bGC_E_ogonek <anchor 441 0> mark @MC_ogonek;
+	pos base @bGC_I_ogonek <anchor 231 0> mark @MC_ogonek;
+	pos base @bGC_U_ogonek <anchor 361 0> mark @MC_ogonek;
+	pos base @bGC_a_ogonek <anchor 586 0> mark @MC_ogonek;
+	pos base @bGC_e_ogonek <anchor 351 0> mark @MC_ogonek;
+	pos base @bGC_u_ogonek <anchor 591 0> mark @MC_ogonek;
+	pos base f_f_i <anchor 1096 0> mark @MC_ogonek;
+	pos base fi <anchor 710 0> mark @MC_ogonek;
+	pos base i <anchor 261 0> mark @MC_ogonek;
+} MARK_BASE_ogonek;
+
+
+lookup MARK_BASE_top {
+	@bGC_A_top = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
+	@bGC_C_top = [C Ccedilla Cacute Ccaron];
+	@bGC_D_top = [D Dcaron];
+	@bGC_E_top = [E U Egrave Eacute Ecircumflex Edieresis Ugrave Uacute Ucircumflex Udieresis Emacron Edotaccent Eogonek Ecaron Umacron Uring Uhungarumlaut Uogonek];
+	@bGC_G_top = [G N T Ntilde Gbreve Gcommaaccent Nacute Ncommaaccent Ncaron Tcedilla Tcaron Tcommaaccent];
+	@bGC_I_top = [I Igrave Iacute Icircumflex Idieresis Imacron Iogonek Idotaccent];
+	@bGC_L_top = [L Lacute Lcommaaccent Lcaron];
+	@bGC_O_top = [O Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut];
+	@bGC_R_top = [R Racute Rcommaaccent Rcaron];
+	@bGC_S_top = [S Sacute Scedilla Scaron Scommaaccent];
+	@bGC_Y_top = [Y Yacute Ydieresis];
+	@bGC_Z_top = [Z Zacute Zdotaccent Zcaron];
+	@bGC_a_top = [a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek];
+	@bGC_c_top = [c ccedilla cacute ccaron];
+	@bGC_e_top = [e egrave eacute ecircumflex edieresis emacron edotaccent eogonek ecaron];
+	@bGC_g_top = [g gbreve gcommaaccent];
+	@bGC_i_top = [i igrave iacute icircumflex idieresis imacron dotlessi];
+	@bGC_l_top = [l lacute lcommaaccent lcaron];
+	@bGC_n_top = [n ntilde nacute ncommaaccent ncaron];
+	@bGC_o_top = [o ograve oacute ocircumflex otilde odieresis omacron ohungarumlaut];
+	@bGC_r_top = [r racute rcommaaccent rcaron];
+	@bGC_s_top = [s sacute scedilla scaron scommaaccent];
+	@bGC_u_top = [u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek];
+	@bGC_y_top = [y yacute ydieresis];
+	@bGC_z_top = [z zacute zdotaccent zcaron];
+	pos base @bGC_A_top <anchor 371 733> mark @MC_top;
+	pos base @bGC_C_top <anchor 348 733> mark @MC_top;
+	pos base @bGC_D_top <anchor 320 733> mark @MC_top;
+	pos base @bGC_E_top <anchor 351 733> mark @MC_top;
+	pos base @bGC_G_top <anchor 380 733> mark @MC_top;
+	pos base @bGC_I_top <anchor 211 733> mark @MC_top;
+	pos base @bGC_L_top <anchor 350 733> mark @MC_top;
+	pos base @bGC_O_top <anchor 366 733> mark @MC_top;
+	pos base @bGC_R_top <anchor 361 733> mark @MC_top;
+	pos base @bGC_S_top <anchor 343 733> mark @MC_top;
+	pos base @bGC_Y_top <anchor 342 733> mark @MC_top;
+	pos base @bGC_Z_top <anchor 310 733> mark @MC_top;
+	pos base @bGC_a_top <anchor 384 593> mark @MC_top;
+	pos base @bGC_c_top <anchor 342 593> mark @MC_top;
+	pos base @bGC_e_top <anchor 310 593> mark @MC_top;
+	pos base @bGC_g_top <anchor 375 593> mark @MC_top;
+	pos base @bGC_i_top <anchor 169 593> mark @MC_top;
+	pos base @bGC_l_top <anchor 254 801> mark @MC_top;
+	pos base @bGC_n_top <anchor 354 593> mark @MC_top;
+	pos base @bGC_o_top <anchor 311 593> mark @MC_top;
+	pos base @bGC_r_top <anchor 302 593> mark @MC_top;
+	pos base @bGC_s_top <anchor 331 593> mark @MC_top;
+	pos base @bGC_u_top <anchor 344 593> mark @MC_top;
+	pos base @bGC_y_top <anchor 337 593> mark @MC_top;
+	pos base @bGC_z_top <anchor 324 593> mark @MC_top;
+	pos base f_f_l <anchor 1082 801> mark @MC_top;
+	pos base fl <anchor 703 801> mark @MC_top;
+} MARK_BASE_top;
+
+
+

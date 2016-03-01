@@ -1,0 +1,115 @@
+# Created: Tue Mar  1 13:18:05 2016
+# PS Name: Mogra
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_abvm {
+	@bGC_gjCHA_abvm = [gjCHA gjCH_RA gjCHA_mU gjCHA_mUU];
+	@bGC_gjC_CHA_mU_abvm = [gjC_CHA_mU gjC_CHA_mUU];
+	@bGC_gjDDHA_abvm = [gjDDHA gjDDH_RA gjDDH_DDHA];
+	@bGC_gjDD_DDA_abvm = [gjDD_DDA gjDD_DDHA gjDD_VA gjRA_mUU];
+	@bGC_gjHA_abvm = [gjHA gjH_RA gjH_NA];
+	@bGC_gjI_abvm = [gjI gjII];
+	@bGC_gjJA_abvm = [gjJA gjJ_RA gjD_RA gjD_VA gjDA_mvR];
+	@bGC_gjJA_mII_abvm = [gjJA_mII gjJ_RA_mII];
+	@bGC_gjJ_KA_abvm = [gjJ_KA gjJ_DDA gjJ_DA];
+	@bGC_gjKA_abvm = [gjKA gjPHA gjK_RA];
+	@bGC_gjK_KA_abvm = [gjK_KA gjC_CHA];
+	@bGC_gjK_PHA_abvm = [gjK_PHA gjPH_PHA];
+	@bGC_gjK_TTA_abvm = [gjK_TTA gjPH_TTA];
+	@bGC_gjL_TTA_abvm = [gjL_TTA gjL_DDHA];
+	@bGC_gjNGA_abvm = [gjNGA gjDDA gjNG_RA gjDD_RA];
+	@bGC_gjN_CHA_mU_abvm = [gjN_CHA_mU gjN_CHA_mUU];
+	@bGC_gjN_D_VA_abvm = [gjN_D_VA gjB_DA];
+	@bGC_gjN_JHA_abvm = [gjN_JHA gjS_TTA gjS_TT_RA];
+	@bGC_gjP_PHA_abvm = [gjP_PHA gjSS_KA gjSS_K_RA gjSS_PHA];
+	@bGC_gjP_TTA_abvm = [gjP_TTA gjSS_TTA gjSS_TT_RA];
+	@bGC_gjP_TTHA_abvm = [gjP_TTHA gjSS_TTHA gjSS_TTH_RA];
+	@bGC_gjTTA_abvm = [gjTTA gjTT_RA gjTT_TTA];
+	@bGC_gjTTHA_abvm = [gjTTHA gjTTH_RA gjTTH_TTHA];
+	pos base @bGC_gjCHA_abvm <anchor 407 642> mark @MC_abvm;
+	pos base @bGC_gjC_CHA_mU_abvm <anchor 782 642> mark @MC_abvm;
+	pos base @bGC_gjDDHA_abvm <anchor 248 642> mark @MC_abvm;
+	pos base @bGC_gjDD_DDA_abvm <anchor 272 642> mark @MC_abvm;
+	pos base @bGC_gjHA_abvm <anchor 345 642> mark @MC_abvm;
+	pos base @bGC_gjI_abvm <anchor 86 642> mark @MC_abvm;
+	pos base @bGC_gjJA_abvm <anchor 296 642> mark @MC_abvm;
+	pos base @bGC_gjJA_mII_abvm <anchor 286 642> mark @MC_abvm;
+	pos base @bGC_gjJ_KA_abvm <anchor 831 642> mark @MC_abvm;
+	pos base @bGC_gjKA_abvm <anchor 255 642> mark @MC_abvm;
+	pos base @bGC_gjK_KA_abvm <anchor 783 642> mark @MC_abvm;
+	pos base @bGC_gjK_PHA_abvm <anchor 787 642> mark @MC_abvm;
+	pos base @bGC_gjK_TTA_abvm <anchor 802 642> mark @MC_abvm;
+	pos base @bGC_gjL_TTA_abvm <anchor 718 642> mark @MC_abvm;
+	pos base @bGC_gjNGA_abvm <anchor 261 642> mark @MC_abvm;
+	pos base @bGC_gjN_CHA_mU_abvm <anchor 728 642> mark @MC_abvm;
+	pos base @bGC_gjN_D_VA_abvm <anchor 647 642> mark @MC_abvm;
+	pos base @bGC_gjN_JHA_abvm <anchor 724 642> mark @MC_abvm;
+	pos base @bGC_gjP_PHA_abvm <anchor 533 642> mark @MC_abvm;
+	pos base @bGC_gjP_TTA_abvm <anchor 464 642> mark @MC_abvm;
+	pos base @bGC_gjP_TTHA_abvm <anchor 486 642> mark @MC_abvm;
+	pos base @bGC_gjTTA_abvm <anchor 237 642> mark @MC_abvm;
+	pos base @bGC_gjTTHA_abvm <anchor 258 642> mark @MC_abvm;
+	pos base gjB_JA <anchor 785 642> mark @MC_abvm;
+	pos base gjB_JHA <anchor 769 642> mark @MC_abvm;
+	pos base gjCH_VA <anchor 387 642> mark @MC_abvm;
+	pos base gjC_CH_VA <anchor 790 642> mark @MC_abvm;
+	pos base gjDA <anchor 256 642> mark @MC_abvm;
+	pos base gjD_BHA <anchor 302 642> mark @MC_abvm;
+	pos base gjD_DA <anchor 264 642> mark @MC_abvm;
+	pos base gjD_DHA <anchor 395 642> mark @MC_abvm;
+	pos base gjD_GHA <anchor 294 642> mark @MC_abvm;
+	pos base gjD_NA <anchor 287 642> mark @MC_abvm;
+	pos base gjHA_mvR <anchor 323 642> mark @MC_abvm;
+	pos base gjH_VA <anchor 338 642> mark @MC_abvm;
+	pos base gjJHA <anchor 339 642> mark @MC_abvm;
+	pos base gjJH_RA <anchor 355 642> mark @MC_abvm;
+	pos base gjJ_JA <anchor 833 642> mark @MC_abvm;
+	pos base gjJ_JHA <anchor 924 642> mark @MC_abvm;
+	pos base gjJ_TTA <anchor 837 642> mark @MC_abvm;
+	pos base gjK_DA <anchor 800 642> mark @MC_abvm;
+	pos base gjK_JA <anchor 877 642> mark @MC_abvm;
+	pos base gjK_S_DDA <anchor 1271 642> mark @MC_abvm;
+	pos base gjK_S_TTA <anchor 1303 642> mark @MC_abvm;
+	pos base gjL_DA <anchor 706 642> mark @MC_abvm;
+	pos base gjL_DDA <anchor 702 642> mark @MC_abvm;
+	pos base gjL_D_RA <anchor 758 642> mark @MC_abvm;
+	pos base gjL_HA <anchor 775 642> mark @MC_abvm;
+	pos base gjL_JA <anchor 796 642> mark @MC_abvm;
+	pos base gjL_KA <anchor 684 642> mark @MC_abvm;
+	pos base gjL_PHA <anchor 685 642> mark @MC_abvm;
+	pos base gjL_TTHA <anchor 732 642> mark @MC_abvm;
+	pos base gjL_V_DA <anchor 992 642> mark @MC_abvm;
+	pos base gjM_DA <anchor 571 642> mark @MC_abvm;
+	pos base gjNY_JA <anchor 776 642> mark @MC_abvm;
+	pos base gjN_CHA <anchor 729 642> mark @MC_abvm;
+	pos base gjN_DA <anchor 560 642> mark @MC_abvm;
+	pos base gjN_DDA <anchor 579 642> mark @MC_abvm;
+	pos base gjN_KA <anchor 547 642> mark @MC_abvm;
+	pos base gjN_PHA <anchor 577 642> mark @MC_abvm;
+	pos base gjN_S_TTA <anchor 1105 642> mark @MC_abvm;
+	pos base gjN_TTA <anchor 593 642> mark @MC_abvm;
+	pos base gjPH_JA <anchor 876 642> mark @MC_abvm;
+	pos base gjPH_RA <anchor 265 642> mark @MC_abvm;
+	pos base gjRA <anchor 195 642> mark @MC_abvm;
+	pos base gjRA_mU <anchor 225 642> mark @MC_abvm;
+	pos base gjSS_TT_VA <anchor 503 642> mark @MC_abvm;
+	pos base gjS_DA <anchor 713 642> mark @MC_abvm;
+	pos base gjS_JA <anchor 856 642> mark @MC_abvm;
+	pos base gjS_KA <anchor 692 642> mark @MC_abvm;
+	pos base gjS_K_RA <anchor 700 642> mark @MC_abvm;
+	pos base gjS_PHA <anchor 712 642> mark @MC_abvm;
+	pos base gjTT_TTHA <anchor 227 642> mark @MC_abvm;
+	pos base gjTT_VA <anchor 229 642> mark @MC_abvm;
+	pos base gjT_KA <anchor 535 642> mark @MC_abvm;
+	pos base gjT_K_RA <anchor 530 642> mark @MC_abvm;
+	pos base gjT_PHA <anchor 554 642> mark @MC_abvm;
+	pos base gjU <anchor 473 862> mark @MC_abvm;
+	pos base gjUU <anchor 905 642> mark @MC_abvm;
+	pos base gjV_HA <anchor 587 642> mark @MC_abvm;
+	pos base gjvR <anchor 466 642> mark @MC_abvm;
+} MARK_BASE_abvm;
+
+

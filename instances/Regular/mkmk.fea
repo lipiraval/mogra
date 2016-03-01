@@ -1,0 +1,14 @@
+# Created: Tue Mar  1 13:18:05 2016
+# PS Name: Mogra
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MKMK_MARK_top {
+	lookupflag MarkAttachmentType @MC_top;
+
+	pos mark iogonek <anchor 169 593> mark @MC_top;
+} MKMK_MARK_top;
+
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjSH_R" format="2">
+  <advance width="435"/>
+  <outline>
+    <contour>
+      <point x="484" y="344" type="curve"/>
+      <point x="457" y="348"/>
+      <point x="421" y="358"/>
+      <point x="390" y="369" type="curve"/>
+      <point x="447" y="409"/>
+      <point x="478" y="449"/>
+      <point x="478" y="485" type="curve" smooth="yes"/>
+      <point x="478" y="535"/>
+      <point x="410" y="619"/>
+      <point x="322" y="619" type="curve" smooth="yes"/>
+      <point x="215" y="619"/>
+      <point x="81" y="553"/>
+      <point x="81" y="482" type="curve" smooth="yes"/>
+      <point x="81" y="443"/>
+      <point x="110" y="407"/>
+      <point x="160" y="378" type="curve"/>
+      <point x="118" y="364"/>
+      <point x="77" y="355"/>
+      <point x="25" y="343" type="curve"/>
+      <point x="-11" y="278"/>
+      <point x="26" y="211"/>
+      <point x="84" y="203" type="curve"/>
+      <point x="165" y="234"/>
+      <point x="240" y="271"/>
+      <point x="295" y="305" type="curve"/>
+      <point x="316" y="294"/>
+      <point x="336" y="287"/>
+      <point x="355" y="281" type="curve"/>
+      <point x="267" y="224"/>
+      <point x="181" y="180"/>
+      <point x="67" y="140" type="curve"/>
+      <point x="38" y="67"/>
+      <point x="82" y="6"/>
+      <point x="151" y="0" type="curve"/>
+      <point x="258" y="56"/>
+      <point x="393" y="151"/>
+      <point x="496" y="229" type="curve"/>
+      <point x="519" y="266"/>
+      <point x="515" y="320"/>
+    </contour>
+    <contour>
+      <point x="361" y="521" type="curve"/>
+      <point x="343" y="486"/>
+      <point x="314" y="454"/>
+      <point x="263" y="419" type="curve"/>
+      <point x="239" y="432"/>
+      <point x="214" y="450"/>
+      <point x="199" y="468" type="curve"/>
+      <point x="245" y="511"/>
+      <point x="306" y="524"/>
+    </contour>
+  </outline>
+</glyph>

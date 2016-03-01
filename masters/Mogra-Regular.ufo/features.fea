@@ -1,0 +1,20 @@
+feature calt {
+sub j j' by j.alt;
+sub j.alt j' by j.alt;
+sub g j' by j.alt;
+sub y j' by j.alt;
+sub q' j by q.alt;
+sub q.alt j' by j.alt;
+sub q' p by q.alt;
+sub gjmI' gjDHA by gjmI.tall;
+sub gjmI' gjD_YA by gjmI.tall;
+} calt;
+
+feature liga {
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+} liga;
+

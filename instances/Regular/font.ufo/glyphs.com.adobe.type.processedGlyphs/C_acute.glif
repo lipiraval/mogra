@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+  <advance width="547"/>
+  <unicode hex="0106"/>
+  <outline>
+    <contour>
+      <point x="401" y="249" type="curve"/>
+      <point x="350" y="205"/>
+      <point x="276" y="163"/>
+      <point x="182" y="146" type="curve"/>
+      <point x="186" y="317"/>
+      <point x="267" y="575"/>
+      <point x="338" y="575" type="curve" smooth="yes"/>
+      <point x="370" y="575"/>
+      <point x="369" y="524"/>
+      <point x="366" y="451" type="curve"/>
+      <point x="443" y="423"/>
+      <point x="532" y="445"/>
+      <point x="531" y="523" type="curve" smooth="yes"/>
+      <point x="531" y="599"/>
+      <point x="448" y="710"/>
+      <point x="335" y="710" type="curve" smooth="yes"/>
+      <point x="118" y="710"/>
+      <point x="20" y="378"/>
+      <point x="19" y="185" type="curve" smooth="yes"/>
+      <point x="19" y="112"/>
+      <point x="147" y="-5"/>
+      <point x="219" y="-5" type="curve" smooth="yes"/>
+      <point x="316" y="-5"/>
+      <point x="444" y="57"/>
+      <point x="484" y="97" type="curve"/>
+      <point x="513" y="156"/>
+      <point x="484" y="229"/>
+    </contour>
+    <contour>
+      <point x="323" y="856" type="curve"/>
+      <point x="308" y="831"/>
+      <point x="296" y="808"/>
+      <point x="274" y="780" type="curve"/>
+      <point x="282" y="741"/>
+      <point x="317" y="725"/>
+      <point x="359" y="731" type="curve"/>
+      <point x="416" y="786"/>
+      <point x="466" y="844"/>
+      <point x="507" y="901" type="curve"/>
+      <point x="506" y="972"/>
+      <point x="416" y="1005"/>
+      <point x="335" y="965" type="curve"/>
+      <point x="333" y="933"/>
+      <point x="329" y="893"/>
+    </contour>
+  </outline>
+</glyph>
