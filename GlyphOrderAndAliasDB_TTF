@@ -1,6 +1,6 @@
 .notdef .notdef
-NULL NULL uni0000
-CR CR uni000D
+
+
 space space uni0020
 
 gjA gjA uni0A85
@@ -10,9 +10,9 @@ gjII gjII uni0A88
 gjU gjU uni0A89
 gjUU gjUU uni0A8A
 gjvR gjvR uni0A8B
-gjvRR gjvRR uni0AE0
-gjvL gjvL uni0A8C
-gjvLL gjvLL uni0AE1
+
+
+
 gjE gjE uni0A8F
 gjAI gjAI uni0A90
 gjO gjO uni0A93
@@ -27,9 +27,9 @@ gjmII gjmII uni0AC0
 gjmU gjmU uni0AC1
 gjmUU gjmUU uni0AC2
 gjmvR gjmvR uni0AC3
-gjmvRR gjmvRR uni0AC4
-gjmvL gjmvL uni0AE2
-gjmvLL gjmvLL uni0AE3
+
+
+
 gjmE gjmE uni0AC7
 gjmAI gjmAI uni0AC8
 gjmO gjmO uni0ACB
@@ -84,8 +84,8 @@ gjVirama gjVirama uni0ACD
 gjNukta gjNukta uni0ABC
 gjAvagraha gjAvagraha uni0ABD
 
-udatta udatta uni0951
-anudatta anudatta uni0952
+
+
 
 gjZero gjZero uni0AE6
 gjOne gjOne uni0AE7
@@ -100,18 +100,18 @@ gjNine gjNine uni0AEF
 
 gjOm gjOm uni0AD0
 gjAbbreviationsign gjAbbreviationsign uni0AF0
-gjRupeesign gjRupeesign uni0AF1
+gjRupeesign uni0AF1 uni0AF1
 
-danda danda uni0964
-doubledanda doubledanda uni0965
+danda uni0964 uni0964
+doubledanda uni0965 uni0965
 
-indianrupee indianrupee uni20B9
+indianrupee uni20B9 uni20B9
 
-zerowidthnonjoiner zerowidthnonjoiner uni200C
-zerowidthjoiner zerowidthjoiner uni200D
-dottedcircle dottedcircle uni25CC
 
-ITF ITF
+
+dottedcircle uni25CC uni25CC
+
+
 
 gjReph gjReph
 gjRAc2 gjRAc2
@@ -190,13 +190,13 @@ gjH_RA gjH_RA
 gjLL_RA gjLL_RA
 
 gjK_SS_RA gjK_SS_RA
-gjJ_NY_RA gjJ_NY_RA
+
 
 gjK_R gjK_R
 gjKH_R gjKH_R
 gjG_R gjG_R
 gjGH_R gjGH_R
-gjNG_R gjNG_R
+
 gjC_R gjC_R
 gjCH_R gjCH_R
 gjJ_R gjJ_R
@@ -223,19 +223,19 @@ gjV_R gjV_R
 gjSH_R gjSH_R
 gjSS_R gjSS_R
 gjS_R gjS_R
-gjH_R gjH_R
+
 gjLL_R gjLL_R
 
 gjK_SS_R gjK_SS_R
-gjJ_NY_R gjJ_NY_R
+
 
 gjK_KA gjK_KA
 gjK_KHA gjK_KHA
 gjK_CA gjK_CA
 gjK_JA gjK_JA
 gjK_TTA gjK_TTA
-gjK_TT_RA gjK_TT_RA
-gjK_TTHA gjK_TTHA
+
+
 gjK_NNA gjK_NNA
 gjK_TA gjK_TA
 gjK_T_YA gjK_T_YA
@@ -247,7 +247,7 @@ gjK_NA gjK_NA
 gjK_PA gjK_PA
 gjK_P_RA gjK_P_RA
 gjK_PHA gjK_PHA
-gjK_BA gjK_BA
+
 gjK_MA gjK_MA
 gjK_YA gjK_YA
 gjK_LA gjK_LA
@@ -269,28 +269,28 @@ gjKH_TA gjKH_TA
 gjKH_NA gjKH_NA
 gjKH_MA gjKH_MA
 gjKH_YA gjKH_YA
-gjKH_VA gjKH_VA
+
 gjKH_SHA gjKH_SHA
 gjKH_SA gjKH_SA
-gjG_GA gjG_GA
-gjG_GHA gjG_GHA
-gjG_JA gjG_JA
-gjG_NNA gjG_NNA
-gjG_DA gjG_DA
-gjG_DHA gjG_DHA
-gjG_DH_YA gjG_DH_YA
-gjG_DH_VA gjG_DH_VA
+
+
+
+
+
+
+
+
 gjG_NA gjG_NA
-gjG_N_YA gjG_N_YA
-gjG_BA gjG_BA
-gjG_BHA gjG_BHA
-gjG_BH_YA gjG_BH_YA
-gjG_MA gjG_MA
-gjG_YA gjG_YA
+
+
+
+
+
+
 gjG_R_YA gjG_R_YA
-gjG_LA gjG_LA
-gjG_VA gjG_VA
-gjG_SA gjG_SA
+
+
+
 gjGH_NA gjGH_NA
 gjGH_MA gjGH_MA
 gjGH_YA gjGH_YA
@@ -301,11 +301,11 @@ gjC_NA gjC_NA
 gjC_MA gjC_MA
 gjC_YA gjC_YA
 gjCH_YA gjCH_YA
-gjCH_R_YA gjCH_R_YA
+
 gjCH_VA gjCH_VA
 gjJ_KA gjJ_KA
 gjJ_JA gjJ_JA
-gjJ_J_NYA gjJ_J_NYA
+
 gjJ_J_YA gjJ_J_YA
 gjJ_J_VA gjJ_J_VA
 gjJ_JHA gjJ_JHA
@@ -315,40 +315,40 @@ gjJ_DDA gjJ_DDA
 gjJ_TA gjJ_TA
 gjJ_DA gjJ_DA
 gjJ_NA gjJ_NA
-gjJ_BA gjJ_BA
+
 gjJ_MA gjJ_MA
 gjJ_YA gjJ_YA
-gjJ_VA gjJ_VA
-gjJH_NA gjJH_NA
-gjJH_MA gjJH_MA
-gjJH_YA gjJH_YA
-gjNY_CA gjNY_CA
-gjNY_CHA gjNY_CHA
+
+
+
+
+
+
 gjNY_JA gjNY_JA
-gjNY_NYA gjNY_NYA
-gjNY_SHA gjNY_SHA
+
+
 gjTT_TTA gjTT_TTA
 gjTT_TTHA gjTT_TTHA
 gjTT_YA gjTT_YA
 gjTT_VA gjTT_VA
 gjTTH_TTHA gjTTH_TTHA
 gjTTH_YA gjTTH_YA
-gjTTH_VA gjTTH_VA
+
 gjDD_DDA gjDD_DDA
 gjDD_DDHA gjDD_DDHA
 gjDD_YA gjDD_YA
 gjDD_VA gjDD_VA
 gjDDH_DDHA gjDDH_DDHA
 gjDDH_YA gjDDH_YA
-gjDDH_VA gjDDH_VA
-gjNN_TTA gjNN_TTA
-gjNN_TTHA gjNN_TTHA
-gjNN_DDA gjNN_DDA
-gjNN_DDHA gjNN_DDHA
-gjNN_NNA gjNN_NNA
-gjNN_MA gjNN_MA
-gjNN_YA gjNN_YA
-gjNN_VA gjNN_VA
+
+
+
+
+
+
+
+
+
 gjT_KA gjT_KA
 gjT_K_YA gjT_K_YA
 gjT_K_RA gjT_K_RA
@@ -381,22 +381,22 @@ gjT_S_VA gjT_S_VA
 gjTH_NA gjTH_NA
 gjTH_YA gjTH_YA
 gjTH_VA gjTH_VA
-gjD_GA gjD_GA
-gjD_G_RA gjD_G_RA
+
+
 gjD_GHA gjD_GHA
 gjD_DA gjD_DA
 gjD_DHA gjD_DHA
-gjD_DH_YA gjD_DH_YA
+
 gjD_NA gjD_NA
-gjD_BA gjD_BA
-gjD_B_RA gjD_B_RA
+
+
 gjD_BHA gjD_BHA
-gjD_BH_YA gjD_BH_YA
+
 gjD_MA gjD_MA
 gjD_YA gjD_YA
-gjD_R_YA gjD_R_YA
+
 gjD_VA gjD_VA
-gjD_V_YA gjD_V_YA
+
 gjDH_NA gjDH_NA
 gjDH_N_YA gjDH_N_YA
 gjDH_MA gjDH_MA
@@ -404,9 +404,9 @@ gjDH_YA gjDH_YA
 gjDH_VA gjDH_VA
 gjN_KA gjN_KA
 gjN_K_SA gjN_K_SA
-gjN_CA gjN_CA
+
 gjN_CHA gjN_CHA
-gjN_JA gjN_JA
+
 gjN_JHA gjN_JHA
 gjN_TTA gjN_TTA
 gjN_DDA gjN_DDA
@@ -418,7 +418,7 @@ gjN_THA gjN_THA
 gjN_TH_YA gjN_TH_YA
 gjN_TH_VA gjN_TH_VA
 gjN_DA gjN_DA
-gjN_D_RA gjN_D_RA
+
 gjN_D_VA gjN_D_VA
 gjN_DHA gjN_DHA
 gjN_DH_YA gjN_DH_YA
@@ -429,25 +429,25 @@ gjN_N_YA gjN_N_YA
 gjN_PA gjN_PA
 gjN_P_RA gjN_P_RA
 gjN_PHA gjN_PHA
-gjN_PH_RA gjN_PH_RA
+
 gjN_BHA gjN_BHA
-gjN_BH_YA gjN_BH_YA
+
 gjN_BH_VA gjN_BH_VA
 gjN_MA gjN_MA
 gjN_M_YA gjN_M_YA
 gjN_YA gjN_YA
-gjN_VA gjN_VA
-gjN_SHA gjN_SHA
+
+
 gjN_SA gjN_SA
 gjN_S_TTA gjN_S_TTA
 gjN_S_M_YA gjN_S_M_YA
 gjN_S_YA gjN_S_YA
-gjN_HA gjN_HA
-gjP_CA gjP_CA
+
+
 gjP_TTA gjP_TTA
 gjP_TTHA gjP_TTHA
 gjP_TA gjP_TA
-gjP_T_YA gjP_T_YA
+
 gjP_NA gjP_NA
 gjP_PA gjP_PA
 gjP_PHA gjP_PHA
@@ -455,8 +455,8 @@ gjP_MA gjP_MA
 gjP_YA gjP_YA
 gjP_LA gjP_LA
 gjP_VA gjP_VA
-gjP_SHA gjP_SHA
-gjP_SA gjP_SA
+
+
 gjPH_JA gjPH_JA
 gjPH_TTA gjPH_TTA
 gjPH_TA gjPH_TA
@@ -464,32 +464,32 @@ gjPH_NA gjPH_NA
 gjPH_PA gjPH_PA
 gjPH_PHA gjPH_PHA
 gjPH_YA gjPH_YA
-gjPH_LA gjPH_LA
+
 gjPH_SHA gjPH_SHA
 gjPH_SA gjPH_SA
 gjB_JA gjB_JA
 gjB_J_YA gjB_J_YA
 gjB_JHA gjB_JHA
-gjB_TA gjB_TA
+
 gjB_DA gjB_DA
 gjB_DHA gjB_DHA
 gjB_DH_VA gjB_DH_VA
 gjB_NA gjB_NA
 gjB_BA gjB_BA
-gjB_BHA gjB_BHA
-gjB_BH_RA gjB_BH_RA
+
+
 gjB_YA gjB_YA
-gjB_LA gjB_LA
-gjB_L_YA gjB_L_YA
-gjB_VA gjB_VA
+
+
+
 gjB_SHA gjB_SHA
 gjB_SA gjB_SA
 gjBH_NA gjBH_NA
 gjBH_YA gjBH_YA
-gjBH_R_YA gjBH_R_YA
+
 gjBH_LA gjBH_LA
 gjBH_VA gjBH_VA
-gjM_TA gjM_TA
+
 gjM_DA gjM_DA
 gjM_NA gjM_NA
 gjM_PA gjM_PA
@@ -498,24 +498,24 @@ gjM_BA gjM_BA
 gjM_B_YA gjM_B_YA
 gjM_B_RA gjM_B_RA
 gjM_BHA gjM_BHA
-gjM_BH_YA gjM_BH_YA
-gjM_BH_RA gjM_BH_RA
-gjM_BH_VA gjM_BH_VA
+
+
+
 gjM_MA gjM_MA
 gjM_YA gjM_YA
 gjM_R_MA gjM_R_MA
-gjM_LA gjM_LA
+
 gjM_VA gjM_VA
 gjM_SHA gjM_SHA
 gjM_SA gjM_SA
-gjM_HA gjM_HA
+
 gjY_NA gjY_NA
 gjY_YA gjY_YA
 gjL_KA gjL_KA
 gjL_K_YA gjL_K_YA
 gjL_KHA gjL_KHA
 gjL_GA gjL_GA
-gjL_CA gjL_CA
+
 gjL_JA gjL_JA
 gjL_TTA gjL_TTA
 gjL_TTHA gjL_TTHA
@@ -526,17 +526,17 @@ gjL_THA gjL_THA
 gjL_TH_YA gjL_TH_YA
 gjL_DA gjL_DA
 gjL_D_RA gjL_D_RA
-gjL_NA gjL_NA
+
 gjL_PA gjL_PA
 gjL_PHA gjL_PHA
-gjL_BA gjL_BA
+
 gjL_BHA gjL_BHA
 gjL_MA gjL_MA
 gjL_YA gjL_YA
 gjL_LA gjL_LA
 gjL_L_YA gjL_L_YA
-gjL_VA gjL_VA
-gjL_V_DDA gjL_V_DDA
+
+
 gjL_V_DA gjL_V_DA
 gjL_SA gjL_SA
 gjL_HA gjL_HA
@@ -545,17 +545,17 @@ gjV_YA gjV_YA
 gjV_LA gjV_LA
 gjV_VA gjV_VA
 gjV_HA gjV_HA
-gjSH_KA gjSH_KA
+
 gjSH_CA gjSH_CA
-gjSH_CHA gjSH_CHA
-gjSH_TTA gjSH_TTA
-gjSH_TA gjSH_TA
+
+
+
 gjSH_NA gjSH_NA
-gjSH_MA gjSH_MA
-gjSH_YA gjSH_YA
-gjSH_LA gjSH_LA
+
+
+
 gjSH_VA gjSH_VA
-gjSH_SHA gjSH_SHA
+
 gjSS_KA gjSS_KA
 gjSS_K_RA gjSS_K_RA
 gjSS_TTA gjSS_TTA
@@ -567,7 +567,7 @@ gjSS_TTH_YA gjSS_TTH_YA
 gjSS_TTH_RA gjSS_TTH_RA
 gjSS_NNA gjSS_NNA
 gjSS_NN_YA gjSS_NN_YA
-gjSS_NA gjSS_NA
+
 gjSS_PA gjSS_PA
 gjSS_P_RA gjSS_P_RA
 gjSS_PHA gjSS_PHA
@@ -583,11 +583,11 @@ gjS_KHA gjS_KHA
 gjS_JA gjS_JA
 gjS_TTA gjS_TTA
 gjS_TT_RA gjS_TT_RA
-gjS_TA gjS_TA
-gjS_T_YA gjS_T_YA
+
+
 gjS_T_RA gjS_T_RA
 gjS_T_R gjS_T_R
-gjS_T_VA gjS_T_VA
+
 gjS_THA gjS_THA
 gjS_TH_YA gjS_TH_YA
 gjS_DA gjS_DA
@@ -595,59 +595,31 @@ gjS_NA gjS_NA
 gjS_PA gjS_PA
 gjS_P_RA gjS_P_RA
 gjS_PHA gjS_PHA
-gjS_BA gjS_BA
+
 gjS_MA gjS_MA
 gjS_M_YA gjS_M_YA
 gjS_YA gjS_YA
-gjS_LA gjS_LA
+
 gjS_VA gjS_VA
 gjS_SA gjS_SA
-gjH_NNA gjH_NNA
+
 gjH_NA gjH_NA
 gjH_MA gjH_MA
 gjH_YA gjH_YA
-gjH_LA gjH_LA
+
 gjH_VA gjH_VA
 gjLL_YA gjLL_YA
 
-gjmI.01 gjmI.01
-gjmI.02 gjmI.02
-gjmI.03 gjmI.03
-gjmI.04 gjmI.04
-gjmI.05 gjmI.05
-gjmI.06 gjmI.06
-gjmI.07 gjmI.07
-gjmI.08 gjmI.08
-gjmI.09 gjmI.09
-gjmI.10 gjmI.10
-gjmI.11 gjmI.11
-gjmI.12 gjmI.12
-gjmI.13 gjmI.13
-gjmI.14 gjmI.14
-gjmI.15 gjmI.15
-gjmI.16 gjmI.16
-gjmI.17 gjmI.17
-gjmI.18 gjmI.18
-gjmI.19 gjmI.19
-gjmI.20 gjmI.20
-gjmI.21 gjmI.21
-gjmI.22 gjmI.22
-gjmI.23 gjmI.23
-gjmI.24 gjmI.24
-gjmI.25 gjmI.25
-gjmI.26 gjmI.26
-gjmI.27 gjmI.27
-gjmI.28 gjmI.28
-gjmI.29 gjmI.29
-gjmI.30 gjmI.30
-gjmI.31 gjmI.31
-gjmI.32 gjmI.32
+gjmI.alt01 gjmI.alt01
+gjmI.alt02 gjmI.alt02
+gjmI.alt03 gjmI.alt03
+gjmI.alt04 gjmI.alt04
 
 gjReph_Anusvara gjReph_Anusvara
 
-gjAnusvara.matrai gjAnusvara.matrai
-gjReph.matrai gjReph.matrai
-gjReph_Anusvara.matrai gjReph_Anusvara.matrai
+
+
+
 
 gjmI_Reph gjmI_Reph
 gjmI_Reph_Anusvara gjmI_Reph_Anusvara
@@ -688,6 +660,12 @@ gjRA_mUU gjRA_mUU
 gjDA_mvR gjDA_mvR
 gjSHA_mvR gjSHA_mvR
 gjHA_mvR gjHA_mvR
+
+gjmI.short gjmI.short
+gjmU.RAc2 gjmU.RAc2
+gjmUU.RAc2 gjmUU.RAc2
+gjRAc2_mU gjRAc2_mU
+gjRAc2_mUU gjRAc2_mUU
 
 gjCHA_mU gjCHA_mU
 gjCHA_mUU gjCHA_mUU
@@ -797,7 +775,7 @@ braceleft braceleft uni007B # LEFT CURLY BRACKET
 bar bar uni007C # VERTICAL LINE
 braceright braceright uni007D # RIGHT CURLY BRACKET
 asciitilde asciitilde uni007E # TILDE
-uni00A0 nonbreakingspace uni00A0 # NO-BREAK SPACE
+
 exclamdown exclamdown uni00A1 # INVERTED EXCLAMATION MARK
 cent cent uni00A2 # CENT SIGN
 sterling sterling uni00A3 # POUND SIGN
@@ -810,7 +788,7 @@ copyright copyright uni00A9 # COPYRIGHT SIGN
 ordfeminine ordfeminine uni00AA # FEMININE ORDINAL INDICATOR
 guillemotleft guillemotleft uni00AB # LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
 logicalnot logicalnot uni00AC # NOT SIGN
-uni00AD softhyphen uni00AD # SOFT HYPHEN
+uni00AD uni00AD # SOFT HYPHEN
 registered registered uni00AE # REGISTERED SIGN
 macron macron uni00AF # MACRON
 degree degree uni00B0 # DEGREE SIGN
@@ -818,7 +796,7 @@ plusminus plusminus uni00B1 # PLUS-MINUS SIGN
 twosuperior two.superior uni00B2 # SUPERSCRIPT TWO
 threesuperior three.superior uni00B3 # SUPERSCRIPT THREE
 acute acute uni00B4 # ACUTE ACCENT
-uni00B5 mu.math uni00B5 # MICRO SIGN
+uni00B5 uni03BC.math uni00B5 # MICRO SIGN
 paragraph paragraph uni00B6 # PILCROW SIGN
 periodcentered periodcentered uni00B7 # MIDDLE DOT
 cedilla cedilla uni00B8 # CEDILLA
@@ -959,8 +937,8 @@ uni015E Scedilla uni015E # LATIN CAPITAL LETTER S WITH CEDILLA
 uni015F scedilla uni015F # LATIN SMALL LETTER S WITH CEDILLA
 Scaron Scaron uni0160 # LATIN CAPITAL LETTER S WITH CARON
 scaron scaron uni0161 # LATIN SMALL LETTER S WITH CARON
-uni0162 Tcedilla uni0162 # LATIN CAPITAL LETTER T WITH CEDILLA
-uni0163 tcedilla uni0163 # LATIN SMALL LETTER T WITH CEDILLA
+Tcedilla uni0162 # LATIN CAPITAL LETTER T WITH CEDILLA
+tcedilla uni0163 # LATIN SMALL LETTER T WITH CEDILLA
 Tcaron Tcaron uni0164 # LATIN CAPITAL LETTER T WITH CARON
 tcaron tcaron uni0165 # LATIN SMALL LETTER T WITH CARON
 Umacron Umacron uni016A # LATIN CAPITAL LETTER U WITH MACRON
@@ -981,8 +959,8 @@ zcaron zcaron uni017E # LATIN SMALL LETTER Z WITH CARON
 florin florin uni0192 # LATIN SMALL LETTER F WITH HOOK
 uni0218 Scommaaccent uni0218 # LATIN CAPITAL LETTER S WITH COMMA BELOW
 uni0219 scommaaccent uni0219 # LATIN SMALL LETTER S WITH COMMA BELOW
-uni021A Tcommaaccent uni021A # LATIN CAPITAL LETTER T WITH COMMA BELOW
-uni021B tcommaaccent uni021B # LATIN SMALL LETTER T WITH COMMA BELOW
+Tcommaaccent uni021A # LATIN CAPITAL LETTER T WITH COMMA BELOW
+tcommaaccent uni021B # LATIN SMALL LETTER T WITH COMMA BELOW
 circumflex circumflex uni02C6 # MODIFIER LETTER CIRCUMFLEX ACCENT
 caron caron uni02C7 # CARON
 uni02C9 macronmod uni02C9 # MODIFIER LETTER MACRON
@@ -992,7 +970,6 @@ ring ring uni02DA # RING ABOVE
 ogonek ogonek uni02DB # OGONEK
 tilde tilde uni02DC # SMALL TILDE
 hungarumlaut hungarumlaut uni02DD # DOUBLE ACUTE ACCENT
-uni0326 commaaccentcomb uni0326 #+ COMBINING COMMA BELOW
 pi pi uni03C0 # GREEK SMALL LETTER PI
 endash endash uni2013 # EN DASH
 emdash emdash uni2014 # EM DASH
@@ -1010,22 +987,22 @@ perthousand perthousand uni2030 # PER MILLE SIGN
 guilsinglleft guilsinglleft uni2039 # SINGLE LEFT-POINTING ANGLE QUOTATION MARK
 guilsinglright guilsinglright uni203A # SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
 fraction fraction uni2044 # FRACTION SLASH
-zero.superior zero.superior uni2070 #+ SUPERSCRIPT ZERO
-four.superior four.superior uni2074 #+ SUPERSCRIPT FOUR
+
+
 Euro Euro uni20AC # EURO SIGN
-uni20BA turkishlira uni20BA # TURKISH LIRA SIGN
-uni20BD ruble uni20BD # RUBLE SIGN
-uni2113 litre uni2113 # SCRIPT SMALL L
+turkishlira uni20BA # TURKISH LIRA SIGN
+uni20BD uni20BD # RUBLE SIGN
+uni2113 uni2113 # SCRIPT SMALL L
 trademark trademark uni2122 # TRADE MARK SIGN
-uni2126 Omega.math uni2126 # OHM SIGN
+uni2126 uni03A9.math uni2126 # OHM SIGN
 estimated estimated uni212E # ESTIMATED SYMBOL
 partialdiff partialdiff uni2202 # PARTIAL DIFFERENTIAL
-uni2206 Delta.math uni2206 # INCREMENT
+uni2206 uni0394.math uni2206 # INCREMENT
 product product uni220F # N-ARY PRODUCT
 summation summation uni2211 # N-ARY SUMMATION
 minus minus uni2212 # MINUS SIGN
-uni2215 divisionslash uni2215 # DIVISION SLASH
-uni2219 bulletoperator uni2219 # BULLET OPERATOR
+uni2215 uni2215 # DIVISION SLASH
+uni2219 uni2219 # BULLET OPERATOR
 radical radical uni221A # SQUARE ROOT
 infinity infinity uni221E # INFINITY
 integral integral uni222B # INTEGRAL
@@ -1041,5 +1018,5 @@ f_f f_f
 f_f_i f_f_i
 f_f_l f_f_l
 
-j.calt j.calt
-q.calt q.calt
+j.alt j.alt
+q.alt q.alt

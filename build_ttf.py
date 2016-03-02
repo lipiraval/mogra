@@ -3,6 +3,8 @@
 import hindkit as kit
 kit.confirm_version('0.3.2')
 
+kit.constants.paths.GOADB = 'GlyphOrderAndAliasDB_TTF'
+
 # - - -
 
 family = kit.Family(
@@ -23,7 +25,8 @@ family.set_masters(
 
 family.set_styles([('Regular', 0, 400)])
 
-# family.styles[0]._output_full_name_postscript = family.output_name_postscript
+family.styles[0]._file_name = 'Mogra-Regular.ttf'
+kit.constants.paths.GOADB = 'GlyphOrderAndAliasDB_TTF'
 
 # - - -
 
@@ -41,7 +44,7 @@ builder.set_options([
     'checkoutlines', #!
     # 'autohint',      #!
 
-    'do_style_linking',
+    # 'do_style_linking',
     'use_os_2_version_4',
     'prefer_typo_metrics',
     'is_width_weight_slope_only',

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="litre" format="1">
   <advance width="405"/>
+  <unicode hex="2113"/>
   <outline>
     <contour>
       <point x="130" y="287" type="line"/>
@@ -42,7 +43,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-02 13:27:53 +0000</string>
+      <string>2016-03-02 16:22:02 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gjTH_RA" format="1">
-  <advance width="774"/>
+  <advance width="775"/>
   <outline>
     <contour>
       <point x="429" y="263" type="curve"/>
@@ -68,7 +68,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-02 11:24:39 +0000</string>
+      <string>2016-02-03 16:39:01 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>gjTHA</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -570,7 +570,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>774</integer>
+          <integer>775</integer>
         </dict>
       </dict>
     </dict>

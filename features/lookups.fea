@@ -727,62 +727,26 @@ lookup abvs_matrai_step_B {
 # -----------------------
 
 lookup blws {
+
   sub gjRA  gjmU  by gjRA_mU;
   sub gjRA  gjmUU by gjRA_mUU;
   sub gjDA  gjmvR by gjDA_mvR;
   sub gjSHA gjmvR by gjSHA_mvR;
   sub gjHA  gjmvR by gjHA_mvR;
-} blws;
 
-lookup blws_variants {
   sub gjCHA   gjmU  by gjCHA_mU;
   sub gjCHA   gjmUU by gjCHA_mUU;
   sub gjC_CHA gjmU  by gjC_CHA_mU;
   sub gjC_CHA gjmUU by gjC_CHA_mUU;
   sub gjN_CHA gjmU  by gjN_CHA_mU;
   sub gjN_CHA gjmUU by gjN_CHA_mUU;
+
+} blws;
+
+lookup blws_variants {
+  sub
+    [gjKH_RA gjG_RA gjGH_RA gjC_RA gjNY_RA gjNN_RA gjTH_RA gjDH_RA gjP_RA gjB_RA gjBH_RA gjM_RA gjY_RA gjL_RA gjV_RA gjSH_RA gjSS_RA gjS_RA gjLL_RA]
+    [gjmU gjmUU]'
+  by 
+    [gjmU.RAc2 gjmUU.RAc2];
 } blws_variants;
-
-lookup blws_rakar_mU {
-  sub gjKH_RA gjmU' by gjmU.rakar;
-  sub gjG_RA gjmU' by gjmU.rakar;
-  sub gjGH_RA gjmU' by gjmU.rakar;
-  sub gjC_RA gjmU' by gjmU.rakar;
-  sub gjNY_RA gjmU' by gjmU.rakar;
-  sub gjNN_RA gjmU' by gjmU.rakar;
-  sub gjTH_RA gjmU' by gjmU.rakar;
-  sub gjDH_RA gjmU' by gjmU.rakar;
-  sub gjP_RA gjmU' by gjmU.rakar;
-  sub gjB_RA gjmU' by gjmU.rakar;
-  sub gjBH_RA gjmU' by gjmU.rakar;
-  sub gjM_RA gjmU' by gjmU.rakar;
-  sub gjY_RA gjmU' by gjmU.rakar;
-  sub gjL_RA gjmU' by gjmU.rakar;
-  sub gjV_RA gjmU' by gjmU.rakar;
-  sub gjSH_RA gjmU' by gjmU.rakar;
-  sub gjSS_RA gjmU' by gjmU.rakar;
-  sub gjS_RA gjmU' by gjmU.rakar;
-  sub gjLL_RA gjmU' by gjmU.rakar;
-} blws_rakar_mU;
-
-lookup blws_rakar_mUU {
-sub gjKH_RA gjmUU' by gjmUU.rakar;
-sub gjG_RA gjmUU' by gjmUU.rakar;
-sub gjGH_RA gjmUU' by gjmUU.rakar;
-sub gjC_RA gjmUU' by gjmUU.rakar;
-sub gjNY_RA gjmUU' by gjmUU.rakar;
-sub gjNN_RA gjmUU' by gjmUU.rakar;
-sub gjTH_RA gjmUU' by gjmUU.rakar;
-sub gjDH_RA gjmUU' by gjmUU.rakar;
-sub gjP_RA gjmUU' by gjmUU.rakar;
-sub gjB_RA gjmUU' by gjmUU.rakar;
-sub gjBH_RA gjmUU' by gjmUU.rakar;
-sub gjM_RA gjmUU' by gjmUU.rakar;
-sub gjY_RA gjmUU' by gjmUU.rakar;
-sub gjL_RA gjmUU' by gjmUU.rakar;
-sub gjV_RA gjmUU' by gjmUU.rakar;
-sub gjSH_RA gjmUU' by gjmUU.rakar;
-sub gjSS_RA gjmUU' by gjmUU.rakar;
-sub gjS_RA gjmUU' by gjmUU.rakar;
-sub gjLL_RA gjmUU' by gjmUU.rakar;
-} blws_rakar_mUU;

@@ -20,8 +20,6 @@
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
-		<string>NULL</string>
-		<string>CR</string>
 		<string>space</string>
 		<string>gjA</string>
 		<string>gjAA</string>
@@ -30,9 +28,6 @@
 		<string>gjU</string>
 		<string>gjUU</string>
 		<string>gjvR</string>
-		<string>gjvRR</string>
-		<string>gjvL</string>
-		<string>gjvLL</string>
 		<string>gjE</string>
 		<string>gjAI</string>
 		<string>gjO</string>
@@ -45,9 +40,6 @@
 		<string>gjmU</string>
 		<string>gjmUU</string>
 		<string>gjmvR</string>
-		<string>gjmvRR</string>
-		<string>gjmvL</string>
-		<string>gjmvLL</string>
 		<string>gjmE</string>
 		<string>gjmAI</string>
 		<string>gjmO</string>
@@ -96,8 +88,6 @@
 		<string>gjVirama</string>
 		<string>gjNukta</string>
 		<string>gjAvagraha</string>
-		<string>udatta</string>
-		<string>anudatta</string>
 		<string>gjZero</string>
 		<string>gjOne</string>
 		<string>gjTwo</string>
@@ -114,10 +104,7 @@
 		<string>danda</string>
 		<string>doubledanda</string>
 		<string>indianrupee</string>
-		<string>zerowidthnonjoiner</string>
-		<string>zerowidthjoiner</string>
 		<string>dottedcircle</string>
-		<string>ITF</string>
 		<string>gjReph</string>
 		<string>gjRAc2</string>
 		<string>gjK</string>
@@ -190,12 +177,10 @@
 		<string>gjH_RA</string>
 		<string>gjLL_RA</string>
 		<string>gjK_SS_RA</string>
-		<string>gjJ_NY_RA</string>
 		<string>gjK_R</string>
 		<string>gjKH_R</string>
 		<string>gjG_R</string>
 		<string>gjGH_R</string>
-		<string>gjNG_R</string>
 		<string>gjC_R</string>
 		<string>gjCH_R</string>
 		<string>gjJ_R</string>
@@ -222,17 +207,13 @@
 		<string>gjSH_R</string>
 		<string>gjSS_R</string>
 		<string>gjS_R</string>
-		<string>gjH_R</string>
 		<string>gjLL_R</string>
 		<string>gjK_SS_R</string>
-		<string>gjJ_NY_R</string>
 		<string>gjK_KA</string>
 		<string>gjK_KHA</string>
 		<string>gjK_CA</string>
 		<string>gjK_JA</string>
 		<string>gjK_TTA</string>
-		<string>gjK_TT_RA</string>
-		<string>gjK_TTHA</string>
 		<string>gjK_NNA</string>
 		<string>gjK_TA</string>
 		<string>gjK_T_YA</string>
@@ -244,7 +225,6 @@
 		<string>gjK_PA</string>
 		<string>gjK_P_RA</string>
 		<string>gjK_PHA</string>
-		<string>gjK_BA</string>
 		<string>gjK_MA</string>
 		<string>gjK_YA</string>
 		<string>gjK_LA</string>
@@ -266,28 +246,10 @@
 		<string>gjKH_NA</string>
 		<string>gjKH_MA</string>
 		<string>gjKH_YA</string>
-		<string>gjKH_VA</string>
 		<string>gjKH_SHA</string>
 		<string>gjKH_SA</string>
-		<string>gjG_GA</string>
-		<string>gjG_GHA</string>
-		<string>gjG_JA</string>
-		<string>gjG_NNA</string>
-		<string>gjG_DA</string>
-		<string>gjG_DHA</string>
-		<string>gjG_DH_YA</string>
-		<string>gjG_DH_VA</string>
 		<string>gjG_NA</string>
-		<string>gjG_N_YA</string>
-		<string>gjG_BA</string>
-		<string>gjG_BHA</string>
-		<string>gjG_BH_YA</string>
-		<string>gjG_MA</string>
-		<string>gjG_YA</string>
 		<string>gjG_R_YA</string>
-		<string>gjG_LA</string>
-		<string>gjG_VA</string>
-		<string>gjG_SA</string>
 		<string>gjGH_NA</string>
 		<string>gjGH_MA</string>
 		<string>gjGH_YA</string>
@@ -298,11 +260,9 @@
 		<string>gjC_MA</string>
 		<string>gjC_YA</string>
 		<string>gjCH_YA</string>
-		<string>gjCH_R_YA</string>
 		<string>gjCH_VA</string>
 		<string>gjJ_KA</string>
 		<string>gjJ_JA</string>
-		<string>gjJ_J_NYA</string>
 		<string>gjJ_J_YA</string>
 		<string>gjJ_J_VA</string>
 		<string>gjJ_JHA</string>
@@ -312,40 +272,21 @@
 		<string>gjJ_TA</string>
 		<string>gjJ_DA</string>
 		<string>gjJ_NA</string>
-		<string>gjJ_BA</string>
 		<string>gjJ_MA</string>
 		<string>gjJ_YA</string>
-		<string>gjJ_VA</string>
-		<string>gjJH_NA</string>
-		<string>gjJH_MA</string>
-		<string>gjJH_YA</string>
-		<string>gjNY_CA</string>
-		<string>gjNY_CHA</string>
 		<string>gjNY_JA</string>
-		<string>gjNY_NYA</string>
-		<string>gjNY_SHA</string>
 		<string>gjTT_TTA</string>
 		<string>gjTT_TTHA</string>
 		<string>gjTT_YA</string>
 		<string>gjTT_VA</string>
 		<string>gjTTH_TTHA</string>
 		<string>gjTTH_YA</string>
-		<string>gjTTH_VA</string>
 		<string>gjDD_DDA</string>
 		<string>gjDD_DDHA</string>
 		<string>gjDD_YA</string>
 		<string>gjDD_VA</string>
 		<string>gjDDH_DDHA</string>
 		<string>gjDDH_YA</string>
-		<string>gjDDH_VA</string>
-		<string>gjNN_TTA</string>
-		<string>gjNN_TTHA</string>
-		<string>gjNN_DDA</string>
-		<string>gjNN_DDHA</string>
-		<string>gjNN_NNA</string>
-		<string>gjNN_MA</string>
-		<string>gjNN_YA</string>
-		<string>gjNN_VA</string>
 		<string>gjT_KA</string>
 		<string>gjT_K_YA</string>
 		<string>gjT_K_RA</string>
@@ -378,22 +319,14 @@
 		<string>gjTH_NA</string>
 		<string>gjTH_YA</string>
 		<string>gjTH_VA</string>
-		<string>gjD_GA</string>
-		<string>gjD_G_RA</string>
 		<string>gjD_GHA</string>
 		<string>gjD_DA</string>
 		<string>gjD_DHA</string>
-		<string>gjD_DH_YA</string>
 		<string>gjD_NA</string>
-		<string>gjD_BA</string>
-		<string>gjD_B_RA</string>
 		<string>gjD_BHA</string>
-		<string>gjD_BH_YA</string>
 		<string>gjD_MA</string>
 		<string>gjD_YA</string>
-		<string>gjD_R_YA</string>
 		<string>gjD_VA</string>
-		<string>gjD_V_YA</string>
 		<string>gjDH_NA</string>
 		<string>gjDH_N_YA</string>
 		<string>gjDH_MA</string>
@@ -401,9 +334,7 @@
 		<string>gjDH_VA</string>
 		<string>gjN_KA</string>
 		<string>gjN_K_SA</string>
-		<string>gjN_CA</string>
 		<string>gjN_CHA</string>
-		<string>gjN_JA</string>
 		<string>gjN_JHA</string>
 		<string>gjN_TTA</string>
 		<string>gjN_DDA</string>
@@ -415,7 +346,6 @@
 		<string>gjN_TH_YA</string>
 		<string>gjN_TH_VA</string>
 		<string>gjN_DA</string>
-		<string>gjN_D_RA</string>
 		<string>gjN_D_VA</string>
 		<string>gjN_DHA</string>
 		<string>gjN_DH_YA</string>
@@ -426,25 +356,18 @@
 		<string>gjN_PA</string>
 		<string>gjN_P_RA</string>
 		<string>gjN_PHA</string>
-		<string>gjN_PH_RA</string>
 		<string>gjN_BHA</string>
-		<string>gjN_BH_YA</string>
 		<string>gjN_BH_VA</string>
 		<string>gjN_MA</string>
 		<string>gjN_M_YA</string>
 		<string>gjN_YA</string>
-		<string>gjN_VA</string>
-		<string>gjN_SHA</string>
 		<string>gjN_SA</string>
 		<string>gjN_S_TTA</string>
 		<string>gjN_S_M_YA</string>
 		<string>gjN_S_YA</string>
-		<string>gjN_HA</string>
-		<string>gjP_CA</string>
 		<string>gjP_TTA</string>
 		<string>gjP_TTHA</string>
 		<string>gjP_TA</string>
-		<string>gjP_T_YA</string>
 		<string>gjP_NA</string>
 		<string>gjP_PA</string>
 		<string>gjP_PHA</string>
@@ -452,8 +375,6 @@
 		<string>gjP_YA</string>
 		<string>gjP_LA</string>
 		<string>gjP_VA</string>
-		<string>gjP_SHA</string>
-		<string>gjP_SA</string>
 		<string>gjPH_JA</string>
 		<string>gjPH_TTA</string>
 		<string>gjPH_TA</string>
@@ -461,32 +382,23 @@
 		<string>gjPH_PA</string>
 		<string>gjPH_PHA</string>
 		<string>gjPH_YA</string>
-		<string>gjPH_LA</string>
 		<string>gjPH_SHA</string>
 		<string>gjPH_SA</string>
 		<string>gjB_JA</string>
 		<string>gjB_J_YA</string>
 		<string>gjB_JHA</string>
-		<string>gjB_TA</string>
 		<string>gjB_DA</string>
 		<string>gjB_DHA</string>
 		<string>gjB_DH_VA</string>
 		<string>gjB_NA</string>
 		<string>gjB_BA</string>
-		<string>gjB_BHA</string>
-		<string>gjB_BH_RA</string>
 		<string>gjB_YA</string>
-		<string>gjB_LA</string>
-		<string>gjB_L_YA</string>
-		<string>gjB_VA</string>
 		<string>gjB_SHA</string>
 		<string>gjB_SA</string>
 		<string>gjBH_NA</string>
 		<string>gjBH_YA</string>
-		<string>gjBH_R_YA</string>
 		<string>gjBH_LA</string>
 		<string>gjBH_VA</string>
-		<string>gjM_TA</string>
 		<string>gjM_DA</string>
 		<string>gjM_NA</string>
 		<string>gjM_PA</string>
@@ -495,24 +407,18 @@
 		<string>gjM_B_YA</string>
 		<string>gjM_B_RA</string>
 		<string>gjM_BHA</string>
-		<string>gjM_BH_YA</string>
-		<string>gjM_BH_RA</string>
-		<string>gjM_BH_VA</string>
 		<string>gjM_MA</string>
 		<string>gjM_YA</string>
 		<string>gjM_R_MA</string>
-		<string>gjM_LA</string>
 		<string>gjM_VA</string>
 		<string>gjM_SHA</string>
 		<string>gjM_SA</string>
-		<string>gjM_HA</string>
 		<string>gjY_NA</string>
 		<string>gjY_YA</string>
 		<string>gjL_KA</string>
 		<string>gjL_K_YA</string>
 		<string>gjL_KHA</string>
 		<string>gjL_GA</string>
-		<string>gjL_CA</string>
 		<string>gjL_JA</string>
 		<string>gjL_TTA</string>
 		<string>gjL_TTHA</string>
@@ -523,17 +429,13 @@
 		<string>gjL_TH_YA</string>
 		<string>gjL_DA</string>
 		<string>gjL_D_RA</string>
-		<string>gjL_NA</string>
 		<string>gjL_PA</string>
 		<string>gjL_PHA</string>
-		<string>gjL_BA</string>
 		<string>gjL_BHA</string>
 		<string>gjL_MA</string>
 		<string>gjL_YA</string>
 		<string>gjL_LA</string>
 		<string>gjL_L_YA</string>
-		<string>gjL_VA</string>
-		<string>gjL_V_DDA</string>
 		<string>gjL_V_DA</string>
 		<string>gjL_SA</string>
 		<string>gjL_HA</string>
@@ -542,17 +444,9 @@
 		<string>gjV_LA</string>
 		<string>gjV_VA</string>
 		<string>gjV_HA</string>
-		<string>gjSH_KA</string>
 		<string>gjSH_CA</string>
-		<string>gjSH_CHA</string>
-		<string>gjSH_TTA</string>
-		<string>gjSH_TA</string>
 		<string>gjSH_NA</string>
-		<string>gjSH_MA</string>
-		<string>gjSH_YA</string>
-		<string>gjSH_LA</string>
 		<string>gjSH_VA</string>
-		<string>gjSH_SHA</string>
 		<string>gjSS_KA</string>
 		<string>gjSS_K_RA</string>
 		<string>gjSS_TTA</string>
@@ -564,7 +458,6 @@
 		<string>gjSS_TTH_RA</string>
 		<string>gjSS_NNA</string>
 		<string>gjSS_NN_YA</string>
-		<string>gjSS_NA</string>
 		<string>gjSS_PA</string>
 		<string>gjSS_P_RA</string>
 		<string>gjSS_PHA</string>
@@ -580,11 +473,8 @@
 		<string>gjS_JA</string>
 		<string>gjS_TTA</string>
 		<string>gjS_TT_RA</string>
-		<string>gjS_TA</string>
-		<string>gjS_T_YA</string>
 		<string>gjS_T_RA</string>
 		<string>gjS_T_R</string>
-		<string>gjS_T_VA</string>
 		<string>gjS_THA</string>
 		<string>gjS_TH_YA</string>
 		<string>gjS_DA</string>
@@ -592,56 +482,26 @@
 		<string>gjS_PA</string>
 		<string>gjS_P_RA</string>
 		<string>gjS_PHA</string>
-		<string>gjS_BA</string>
 		<string>gjS_MA</string>
 		<string>gjS_M_YA</string>
 		<string>gjS_YA</string>
-		<string>gjS_LA</string>
 		<string>gjS_VA</string>
 		<string>gjS_SA</string>
-		<string>gjH_NNA</string>
 		<string>gjH_NA</string>
 		<string>gjH_MA</string>
 		<string>gjH_YA</string>
-		<string>gjH_LA</string>
 		<string>gjH_VA</string>
 		<string>gjLL_YA</string>
 		<string>gjmI.alt01</string>
 		<string>gjmI.alt02</string>
 		<string>gjmI.alt03</string>
 		<string>gjmI.alt04</string>
-		<string>gjmI.alt05</string>
-		<string>gjmI.alt06</string>
-		<string>gjmI.alt07</string>
-		<string>gjmI.alt08</string>
-		<string>gjmI.alt09</string>
-		<string>gjmI.alt10</string>
-		<string>gjmI.alt11</string>
-		<string>gjmI.alt12</string>
-		<string>gjmI.alt13</string>
-		<string>gjmI.alt14</string>
-		<string>gjmI.alt15</string>
-		<string>gjmI.alt16</string>
-		<string>gjmI.alt17</string>
-		<string>gjmI.alt18</string>
-		<string>gjmI.alt19</string>
-		<string>gjmI.alt20</string>
-		<string>gjmI.alt21</string>
-		<string>gjmI.alt22</string>
-		<string>gjmI.alt23</string>
-		<string>gjmI.alt24</string>
-		<string>gjmI.alt25</string>
-		<string>gjmI.alt26</string>
-		<string>gjmI.alt27</string>
-		<string>gjmI.alt28</string>
-		<string>gjmI.alt29</string>
-		<string>gjmI.alt30</string>
-		<string>gjmI.alt31</string>
-		<string>gjmI.alt32</string>
 		<string>gjReph_Anusvara</string>
-		<string>gjAnusvara.matrai</string>
-		<string>gjReph.matrai</string>
-		<string>gjReph_Anusvara.matrai</string>
+		<string>gjmI_Reph</string>
+		<string>gjmI_Reph_Anusvara</string>
+		<string>gjmI.tall</string>
+		<string>gjmI_Reph.tall</string>
+		<string>gjmI_Reph_Anusvara.tall</string>
 		<string>gjmII_Anusvara</string>
 		<string>gjmII_Reph</string>
 		<string>gjmII_Reph_Anusvara</string>
@@ -668,6 +528,18 @@
 		<string>gjDA_mvR</string>
 		<string>gjSHA_mvR</string>
 		<string>gjHA_mvR</string>
+		<string>gjmI.short</string>
+		<string>gjmU.RAc2</string>
+		<string>gjmUU.RAc2</string>
+		<string>gjRAc2_mU</string>
+		<string>gjRAc2_mUU</string>
+		<string>gjCHA_mU</string>
+		<string>gjCHA_mUU</string>
+		<string>gjC_CHA_mU</string>
+		<string>gjC_CHA_mUU</string>
+		<string>gjN_CHA_mU</string>
+		<string>gjN_CHA_mUU</string>
+		<string>gjNull</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -1001,6 +873,21 @@
 		<string>lozenge</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>i.loclTRK</string>
+		<string>a.alt</string>
+		<string>A.init</string>
+		<string>M.init</string>
+		<string>N.init</string>
+		<string>caron.alt01</string>
+		<string>caron.alt02</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>j.alt</string>
+		<string>q.alt</string>
 	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
@@ -1582,6 +1469,11 @@
 		<string>gjmI.alt03</string>
 		<string>gjmI.alt04</string>
 		<string>gjReph_Anusvara</string>
+		<string>gjmI_Reph</string>
+		<string>gjmI_Reph_Anusvara</string>
+		<string>gjmI.tall</string>
+		<string>gjmI_Reph.tall</string>
+		<string>gjmI_Reph_Anusvara.tall</string>
 		<string>gjmII_Anusvara</string>
 		<string>gjmII_Reph</string>
 		<string>gjmII_Reph_Anusvara</string>
@@ -1608,6 +1500,18 @@
 		<string>gjDA_mvR</string>
 		<string>gjSHA_mvR</string>
 		<string>gjHA_mvR</string>
+		<string>gjmI.short</string>
+		<string>gjmU.RAc2</string>
+		<string>gjmUU.RAc2</string>
+		<string>gjRAc2_mU</string>
+		<string>gjRAc2_mUU</string>
+		<string>gjCHA_mU</string>
+		<string>gjCHA_mUU</string>
+		<string>gjC_CHA_mU</string>
+		<string>gjC_CHA_mUU</string>
+		<string>gjN_CHA_mU</string>
+		<string>gjN_CHA_mUU</string>
+		<string>gjNull</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -1937,28 +1841,11 @@
 		<string>lozenge</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>j.alt</string>
-		<string>q.alt</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
-		<string>gjC_CHA_mU</string>
-		<string>gjC_CHA_mUU</string>
-		<string>gjN_CHA_mU</string>
-		<string>gjN_CHA_mUU</string>
-		<string>gjmI_Reph</string>
-		<string>gjmI_Reph_Anusvara</string>
-		<string>gjmU.rakar</string>
-		<string>gjmUU.rakar</string>
-		<string>gjmI.short</string>
-		<string>gjmI.tall</string>
-		<string>gjmI_Reph.tall</string>
-		<string>gjmI_Reph_Anusvara.tall</string>
-		<string>gjRAc2_mU</string>
-		<string>gjRAc2_mUU</string>
-		<string>gjNull</string>
-		<string>gjCHA_mU</string>
-		<string>gjCHA_mUU</string>
+		<string>j.alt</string>
+		<string>q.alt</string>
 	</array>
 </dict>
 </plist>

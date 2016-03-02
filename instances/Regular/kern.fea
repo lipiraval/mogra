@@ -1,5 +1,5 @@
-# Created: Tue Mar  1 13:18:05 2016
-# PS Name: Mogra
+# Created: Wed Mar  2 23:06:42 2016
+# PS Name: Mogra-Regular
 # MM Inst: None
 # MinKern: +/- 3 inclusive
 # exported from noApp
@@ -27,7 +27,7 @@
 @MMK_L_e = [e w ae egrave eacute ecircumflex edieresis emacron edotaccent ecaron oe];
 @MMK_L_f = [f f_f];
 @MMK_L_g = [g gbreve gcommaaccent];
-@MMK_L_gjCHA = [gjCHA gjCH gjCH_RA gjCH_R gjC_CHA gjN_CHA gjC_CHA_mU gjC_CHA_mUU gjN_CHA_mU gjN_CHA_mUU gjCHA_mU gjCHA_mUU];
+@MMK_L_gjCHA = [gjCHA gjCH gjCH_RA gjCH_R gjC_CHA gjN_CHA gjCHA_mU gjCHA_mUU gjC_CHA_mU gjC_CHA_mUU gjN_CHA_mU gjN_CHA_mUU];
 @MMK_L_gjCH_VA = [gjC_CH_VA gjCH_VA];
 @MMK_L_gjDA = [gjDA gjD gjK_DA gjJ_DA gjN_DA gjB_DA gjM_DA gjL_DA gjL_V_DA gjS_DA];
 @MMK_L_gjDDA = [gjDDA gjDD gjDD_RA gjDD_R gjK_S_DDA gjJ_DDA gjN_DDA gjL_DDA];

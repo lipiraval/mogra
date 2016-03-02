@@ -202,8 +202,6 @@ feature abvs {
 feature blws {
   lookup blws;
   lookup blws_variants;
-  lookup blws_rakar_mU;
-  lookup blws_rakar_mUU;
 } blws;
 
 
