@@ -1,8 +1,5 @@
-# Mogra (મોગરા)
+# Mogra (મોગરા) Gujarati + Latin Fonts Project
 
-Mogra Gujarati + Latin | Google Web Fonts Development
-
-With dense letterforms that borrow heavily from a broad-nibbed marker
-Mogra Gujarati looks to emphasise that defining gujarati out-stroke with size,
-weight, and flair. The implied bloating of the marker pen creates an interesting
-roundness that contrasts against the relatively fixed angle the pen holds.
+Mogra is a display typeface that supports the Gujarati and Latin scripts.
+With dense letterforms that borrow heavily from a broad-nibbed marker, Mogra emphasises the definitive Gujarati out-stroke with mass, weight, and flair. 
+The implied bloating of the marker pen creates an interesting roundness that contrasts against the relatively fixed angle the pen holds.
